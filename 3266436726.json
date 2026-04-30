@@ -1,69 +1,9 @@
 [
   {
-    "ID": 4000,
-    "Name": "CA Metal (Large) #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4000,
-    "Name": "Police Interceptor",
-    "Type": "Vehicle",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4000,
-    "Name": "CA_Tacit_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4000,
-    "Name": "Scorpion",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
     "ID": 4001,
     "Name": "Admin Pack",
     "Type": "Backpack",
     "Rarity": null
-  },
-  {
-    "ID": 4001,
-    "Name": "CA Bush #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4001,
-    "Name": "Coyote",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4001,
-    "Name": "Interceptor",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4001,
-    "Name": "CA_Glass_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4002,
-    "Name": "CA Maple #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4002,
-    "Name": "Hatchback",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
   },
   {
     "ID": 4002,
@@ -72,94 +12,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4002,
-    "Name": "CA_Glass_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4002,
-    "Name": "Blackbear",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4003,
-    "Name": "Truck",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4003,
-    "Name": "CA Pine #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4003,
-    "Name": "CA_Kibble_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4004,
-    "Name": "CA_Birch_Burnt_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4004,
-    "Name": "CA Pine #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4004,
-    "Name": "Offroader",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
     "ID": 4004,
     "Name": "Ghillie Hood",
     "Type": "Hat",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4004,
-    "Name": "Cougar",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4005,
-    "Name": "CA_Maple_Burnt_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4005,
-    "Name": "CA Palm #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4005,
-    "Name": "Sportscar",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4005,
-    "Name": "Grizzly",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4006,
-    "Name": "CA_Pine_Burnt_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4006,
@@ -168,64 +24,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4006,
-    "Name": "Baja",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4006,
-    "Name": "CA Palm #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4007,
-    "Name": "CA Maple #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4007,
-    "Name": "Roadster",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
     "ID": 4007,
     "Name": "Mob Boss Tuxedo",
     "Type": "Shirt",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4007,
-    "Name": "Male Mule Deer",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4007,
-    "Name": "CA_Pine_Burnt_Explosion_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4008,
-    "Name": "CA_Birch_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4008,
-    "Name": "Flux",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4008,
-    "Name": "Female Mule Deer",
-    "Type": "Animal",
-    "Rarity": null
   },
   {
     "ID": 4008,
@@ -234,58 +36,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4008,
-    "Name": "CA Pine #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4009,
-    "Name": "CA Bush #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4009,
-    "Name": "CA_Joshua_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4009,
     "Name": "Raven",
     "Type": "Gun",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4009,
-    "Name": "Merc",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4009,
-    "Name": "Fox",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4010,
-    "Name": "CA Bush Indigo #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4010,
-    "Name": "CA_Maple_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4010,
-    "Name": "Mountain Goat",
-    "Type": "Animal",
-    "Rarity": null
   },
   {
     "ID": 4010,
@@ -294,87 +48,15 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4010,
-    "Name": "Navajo",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4011,
-    "Name": "CA Bush Jade #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4011,
-    "Name": "Raccoon",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4011,
-    "Name": "CA_Palm_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4011,
-    "Name": "Knight",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
     "ID": 4012,
     "Name": "Fissure",
     "Type": "Gun",
     "Rarity": "Rare"
   },
   {
-    "ID": 4012,
-    "Name": "CA_Palm_Explosion_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4012,
-    "Name": "Bicycle",
-    "Type": "Vehicle",
-    "Rarity": null
-  },
-  {
-    "ID": 4012,
-    "Name": "CA Bush Mauve #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4013,
-    "Name": "CA_Pine_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4013,
     "Name": "Black Windbreaker",
     "Type": "Shirt",
-    "Rarity": null
-  },
-  {
-    "ID": 4013,
-    "Name": "Rabbit",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4013,
-    "Name": "Quad",
-    "Type": "Vehicle",
-    "Rarity": null
-  },
-  {
-    "ID": 4013,
-    "Name": "CA Bush Amber #1",
-    "Type": "Resource",
     "Rarity": null
   },
   {
@@ -384,69 +66,9 @@
     "Rarity": null
   },
   {
-    "ID": 4014,
-    "Name": "Jackrabbit",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4014,
-    "Name": "CA Bush Russet #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4014,
-    "Name": "CA_Pine_Explosion_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4014,
-    "Name": "Royal",
-    "Type": "Vehicle",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 4015,
     "Name": "Green Windbreaker",
     "Type": "Shirt",
-    "Rarity": null
-  },
-  {
-    "ID": 4015,
-    "Name": "CA_Pine_Explosion_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4015,
-    "Name": "Station Wagon",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4015,
-    "Name": "CA Bush Teal #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4015,
-    "Name": "White Rabbit",
-    "Type": "Animal",
-    "Rarity": null
-  },
-  {
-    "ID": 4016,
-    "Name": "Arcadia",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4016,
-    "Name": "CA_Pine_Burnt_Explosion_1",
-    "Type": "Effect",
     "Rarity": null
   },
   {
@@ -456,45 +78,9 @@
     "Rarity": null
   },
   {
-    "ID": 4016,
-    "Name": "CA Bush Vermillion #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4017,
     "Name": "Purple Windbreaker",
     "Type": "Shirt",
-    "Rarity": null
-  },
-  {
-    "ID": 4017,
-    "Name": "CA_Planks_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4017,
-    "Name": "Van",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4017,
-    "Name": "CA Pine #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4018,
-    "Name": "Yukon",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4018,
-    "Name": "CA Pine #5",
-    "Type": "Resource",
     "Rarity": null
   },
   {
@@ -504,63 +90,15 @@
     "Rarity": null
   },
   {
-    "ID": 4018,
-    "Name": "CA_Hydrant_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4019,
-    "Name": "CA Pine #6",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4019,
     "Name": "White Windbreaker",
     "Type": "Shirt",
     "Rarity": null
   },
   {
-    "ID": 4019,
-    "Name": "CA_ATM_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4019,
-    "Name": "Wagon",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4020,
-    "Name": "CA Palm #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4020,
-    "Name": "CA_Vines_Debris",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4020,
     "Name": "Yellow Windbreaker",
     "Type": "Shirt",
-    "Rarity": null
-  },
-  {
-    "ID": 4021,
-    "Name": "CA_Vines_Flower_Debris",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4021,
-    "Name": "CA Joshua #1",
-    "Type": "Resource",
     "Rarity": null
   },
   {
@@ -576,64 +114,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4022,
-    "Name": "CA_Spores_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4022,
-    "Name": "CA Joshua #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4022,
-    "Name": "Unmarked Police Yukon",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4023,
-    "Name": "CA_Spores_Volume",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4023,
-    "Name": "CA Bush #3 (Shrub)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4023,
     "Name": "Police Bottom",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4023,
-    "Name": "Station Wagon",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4024,
-    "Name": "CA_Burnt_Smoke_Ambient_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4024,
-    "Name": "Jetski",
-    "Type": "Vehicle",
-    "Rarity": null
-  },
-  {
-    "ID": 4024,
-    "Name": "CA Cactus #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4024,
@@ -643,33 +127,9 @@
   },
   {
     "ID": 4025,
-    "Name": "CA_Hydrant_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4025,
-    "Name": "CA Agave #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4025,
-    "Name": "Runabout",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4025,
     "Name": "Police Top",
     "Type": "Shirt",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4026,
-    "Name": "Dinghy",
-    "Type": "Vehicle",
-    "Rarity": "Epic"
   },
   {
     "ID": 4026,
@@ -678,100 +138,16 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4026,
-    "Name": "CA Agave #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4026,
-    "Name": "CA_Incendiary_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4027,
-    "Name": "Upgraded Knight",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4027,
-    "Name": "CA Cactus #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4027,
     "Name": "Riot Bottom",
     "Type": "Pants",
     "Rarity": "Epic"
   },
   {
-    "ID": 4027,
-    "Name": "CA_Tear_Gas_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4028,
     "Name": "Riot Top",
     "Type": "Shirt",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4028,
-    "Name": "CA_Spray_Black",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4028,
-    "Name": "CA Cactus #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4028,
-    "Name": "Indian",
-    "Type": "Vehicle",
-    "Rarity": null
-  },
-  {
-    "ID": 4029,
-    "Name": "Upgraded Yukon",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4029,
-    "Name": "CA_Spray_Green",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4029,
-    "Name": "CA Birch #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4030,
-    "Name": "Upgraded Offroader",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4030,
-    "Name": "CA_Spray_Green",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4030,
-    "Name": "CA Burnt Maple #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4030,
@@ -781,45 +157,9 @@
   },
   {
     "ID": 4031,
-    "Name": "CA_Spray_Purple",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4031,
     "Name": "Polymer Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4031,
-    "Name": "Chopper",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4031,
-    "Name": "CA Burnt Pine #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4032,
-    "Name": "CA_Spray_Red",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4032,
-    "Name": "CA Burnt Pine #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4032,
-    "Name": "Chopper",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
   },
   {
     "ID": 4032,
@@ -829,45 +169,9 @@
   },
   {
     "ID": 4033,
-    "Name": "Firetruck",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4033,
-    "Name": "CA Burnt Pine #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4033,
-    "Name": "CA_Spray_White",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4033,
     "Name": "Winchester Magazine",
     "Type": "Magazine",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4034,
-    "Name": "Ambulance",
-    "Type": "Vehicle",
-    "Rarity": "Rare"
-  },
-  {
-    "ID": 4034,
-    "Name": "CA Burnt Pine #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4034,
-    "Name": "CA_Spray_Yellow",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4034,
@@ -877,39 +181,9 @@
   },
   {
     "ID": 4035,
-    "Name": "Firetruck",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4035,
-    "Name": "CA_Crafting_Tier_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4035,
-    "Name": "CA Burnt Birch #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4035,
     "Name": "Rig Cargo Pouches",
     "Type": "Supply",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4036,
-    "Name": "CA_Crafting_Tier_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4036,
-    "Name": "Station Wagon",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
   },
   {
     "ID": 4036,
@@ -919,39 +193,9 @@
   },
   {
     "ID": 4037,
-    "Name": "Rainbow Hatchback",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4037,
-    "Name": "CA Joshua #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4037,
     "Name": "Swat Carrying Rig",
     "Type": "Vest",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4037,
-    "Name": "CA_Crafting_Tier_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4038,
-    "Name": "CA Irradiated Maple #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4038,
-    "Name": "CA_Unbox",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4038,
@@ -961,27 +205,9 @@
   },
   {
     "ID": 4039,
-    "Name": "CA Irradiated Palm #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4039,
-    "Name": "DeadPlanet",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4039,
     "Name": "Military Bottom",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4040,
-    "Name": "SolitaryPeak",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4040,
@@ -990,64 +216,22 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4040,
-    "Name": "CA Irradiated Palm #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4041,
-    "Name": "CA_Ambience_Cave_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4041,
     "Name": "Military Bottom",
     "Type": "Pants",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4041,
-    "Name": "CA Irradiated Pine #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4042,
     "Name": "Military Cargo Bottom",
     "Type": "Pants",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4042,
-    "Name": "VoiceofTheDesert",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4042,
-    "Name": "CA Irradiated Pine #2",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4043,
     "Name": "Military Jacket",
     "Type": "Shirt",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4043,
-    "Name": "CA Willow #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4043,
-    "Name": "CA_Fill_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4044,
@@ -1056,46 +240,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4044,
-    "Name": "Meltdown",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4044,
-    "Name": "CA Bush #4 (Swamp)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4045,
-    "Name": "CA Pine #7",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4045,
     "Name": "Military Jacket",
     "Type": "Shirt",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4045,
-    "Name": "CA_Shadowstalker_Muzzle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4046,
-    "Name": "CA Sandstone #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4046,
-    "Name": "CA_Shadowstalker_Shell",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4046,
@@ -1105,39 +253,15 @@
   },
   {
     "ID": 4047,
-    "Name": "CA Bush #5 (Swamp)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4047,
-    "Name": "CA_Casing_Small",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4047,
     "Name": "Military Beret",
     "Type": "Hat",
     "Rarity": "Uncommon"
   },
   {
     "ID": 4048,
-    "Name": "CA_Shell_Grenade",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4048,
     "Name": "Military Beret",
     "Type": "Hat",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4048,
-    "Name": "CA Bush #6",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4049,
@@ -1146,46 +270,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4049,
-    "Name": "CA Bush #7",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4049,
-    "Name": "CA_Shell",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4050,
-    "Name": "CA_Muzzle_Pistol",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4050,
     "Name": "Olive Windbreaker",
     "Type": "Shirt",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4050,
-    "Name": "CA Thorny Tree #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4051,
-    "Name": "CA_Sandstone_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4051,
-    "Name": "CA Wild Carrot #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4051,
@@ -1200,58 +288,16 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4052,
-    "Name": "CA_Muzzle_Shotgun",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4052,
-    "Name": "CA Wild Potato #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4053,
-    "Name": "CA_Dragons_Breath",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4053,
     "Name": "Military Carrying Rig",
     "Type": "Vest",
     "Rarity": "Rare"
   },
   {
-    "ID": 4053,
-    "Name": "CA Wild Tomato #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4054,
-    "Name": "CA Acacia #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4054,
-    "Name": "CA_Tracer_White",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4054,
     "Name": "Military Cargo Rig",
     "Type": "Vest",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4055,
-    "Name": "CA_Tracer_Yellow",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4055,
@@ -1260,28 +306,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4055,
-    "Name": "CA Acacia #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4056,
-    "Name": "CA_Muzzle_Pistol_Heavy",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4056,
     "Name": "Military Carrying Rig",
     "Type": "Vest",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4056,
-    "Name": "CA Pine #8",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4057,
@@ -1290,82 +318,22 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4057,
-    "Name": "CA Birch #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4057,
-    "Name": "CA_Lamp_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4058,
-    "Name": "CA Bush #8",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4058,
     "Name": "Field Cap",
     "Type": "Hat",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4058,
-    "Name": "FresherAir",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4059,
-    "Name": "AloneAmongTheTrees",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4059,
     "Name": "Field Cap",
     "Type": "Hat",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4059,
-    "Name": "CA Bush #9",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4060,
     "Name": "Military Helmet",
     "Type": "Hat",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4060,
-    "Name": "CA_Ambience_Melting_Walls",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4060,
-    "Name": "CA Cactus #5",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4061,
-    "Name": "JourneysEnd",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4061,
-    "Name": "CA Metal (Large) #2",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4061,
@@ -1380,18 +348,6 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 4062,
-    "Name": "CA_Ambiance_Light_Buzzing",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4063,
-    "Name": "FamiliarQuiet",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4063,
     "Name": "Tacit Magazine",
     "Type": "Magazine",
@@ -1399,12 +355,6 @@
   },
   {
     "ID": 4064,
-    "Name": "DustyFingers",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4064,
     "Name": "Military Rucksack",
     "Type": "Backpack",
     "Rarity": "Epic"
@@ -1414,30 +364,12 @@
     "Name": "Military Rucksack",
     "Type": "Backpack",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4065,
-    "Name": "TooBad",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4066,
-    "Name": "CleanerAnyway",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4066,
     "Name": "Mercenary Rucksack",
     "Type": "Backpack",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4067,
-    "Name": "CathedralAmbience",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4067,
@@ -1452,58 +384,16 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4068,
-    "Name": "BBunkerAmbience",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4069,
     "Name": "Rackstack",
     "Type": "Gun",
     "Rarity": "Epic"
   },
   {
-    "ID": 4069,
-    "Name": "CA_Impact_Glass",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4070,
-    "Name": "MallAmbience",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4070,
     "Name": "Assault Scope",
     "Type": "Sight",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4071,
-    "Name": "UltraVioletVoodoo",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4071,
-    "Name": "Kodiak",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4072,
-    "Name": "Kodiak",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4072,
-    "Name": "CA_Geyser_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4072,
@@ -1518,58 +408,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4073,
-    "Name": "CA_Hydrant_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4074,
     "Name": "Porto",
     "Type": "Gun",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4074,
-    "Name": "CA_Casing_Umbra",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4074,
-    "Name": "CA Snowy Bush #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4075,
-    "Name": "Matvee",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4075,
-    "Name": "CA_Casing_Medium_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4075,
-    "Name": "CA Snowy Bush #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4076,
-    "Name": "CA Snowy Bush #6",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4076,
-    "Name": "Matvee",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
   },
   {
     "ID": 4076,
@@ -1578,34 +420,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4076,
-    "Name": "CA_Casing_Large",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4077,
-    "Name": "CA Snowy Bush #7",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4077,
-    "Name": "CA_Casing_Heavy",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4077,
     "Name": "Alice Rig",
     "Type": "Vest",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4078,
-    "Name": "CA Snowy Bush Amber #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4078,
@@ -1614,34 +432,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4078,
-    "Name": "DeepWater",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4079,
-    "Name": "CA Snowy Bush Indigo #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4079,
     "Name": "Alice Rig",
     "Type": "Vest",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4079,
-    "Name": "CA_Pulsenade_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4080,
-    "Name": "CA Snowy Bush Jade #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4080,
@@ -1650,64 +444,22 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4080,
-    "Name": "CA_Blueprint_Effect",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4081,
-    "Name": "CA Snowy Bush Mauve #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4081,
     "Name": "Popcorn",
     "Type": "Food",
     "Rarity": "Rare"
   },
   {
-    "ID": 4081,
-    "Name": "CA_Paint_Explosion",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4082,
     "Name": "Mercenary Top",
     "Type": "Shirt",
     "Rarity": "Rare"
   },
   {
-    "ID": 4082,
-    "Name": "CA Snowy Bush Russet #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4082,
-    "Name": "CA_Smoke_Big",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4083,
     "Name": "Mercenary Top",
     "Type": "Shirt",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4083,
-    "Name": "CA Snowy Bush Teal #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4083,
-    "Name": "CA_Smoke_White",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4084,
@@ -1716,40 +468,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4084,
-    "Name": "MojaveSurface",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4084,
-    "Name": "CA Snowy Bush Vermillion #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4085,
-    "Name": "CA_Ambience_Metal_Sounds_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4085,
     "Name": "Mercenary Cargo Bottom",
     "Type": "Pants",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4085,
-    "Name": "CA Snowy Maple #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4086,
-    "Name": "CA_Ambience_Oil_Gush",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4086,
@@ -1758,28 +480,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4086,
-    "Name": "CA Snowy Maple #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4087,
     "Name": "Tactical Cap",
     "Type": "Hat",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4087,
-    "Name": "CA Snowy Pine #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4087,
-    "Name": "CA_Ambience_Paulrestrech_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4088,
@@ -1788,46 +492,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4088,
-    "Name": "CA Snowy Pine #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4088,
-    "Name": "CA_Ambience_Hallway_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4089,
-    "Name": "CA Snowy Pine #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4089,
     "Name": "Mercenary Carrying Rig",
     "Type": "Vest",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4089,
-    "Name": "SomeoneMightBelieve",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4090,
-    "Name": "CA_Explosion_Propane",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4090,
-    "Name": "CA Snowy Pine #4",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4090,
@@ -1842,51 +510,15 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4091,
-    "Name": "CA Snowy Pine #5",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4091,
-    "Name": "Abyss",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4092,
     "Name": "Broken Biohazard Mask",
     "Type": "Supply",
     "Rarity": "Epic"
   },
   {
-    "ID": 4092,
-    "Name": "CA Palm #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4092,
-    "Name": "CA_Divider_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4093,
-    "Name": "CA Irradiated Palm #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4093,
     "Name": "Ruined Biohazard Top",
     "Type": "Shirt",
-    "Rarity": null
-  },
-  {
-    "ID": 4093,
-    "Name": "CA_Lantern_0",
-    "Type": "Effect",
     "Rarity": null
   },
   {
@@ -1896,76 +528,16 @@
     "Rarity": null
   },
   {
-    "ID": 4094,
-    "Name": "CA_Bamboo_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4094,
-    "Name": "CA Cactus #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4095,
-    "Name": "CA_Glass_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4095,
-    "Name": "CA Cactus #2 [Flowers]",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4096,
-    "Name": "CA_Pine_Explosion_3",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4096,
     "Name": "Esfalka Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
   },
   {
-    "ID": 4096,
-    "Name": "CA Alien Bush #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4097,
     "Name": "Esfalka",
     "Type": "Gun",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4097,
-    "Name": "CA Birch #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4097,
-    "Name": "CA_Pine_Explosion_4",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4098,
-    "Name": "CA Snow Birch #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4098,
-    "Name": "CA_Explosion_No_Effect",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4098,
@@ -1975,57 +547,15 @@
   },
   {
     "ID": 4099,
-    "Name": "CA_Explosion_Grenade",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4099,
     "Name": "13x Scope",
     "Type": "Sight",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4099,
-    "Name": "CA Snowy Birch #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4100,
-    "Name": "CA_Toilet_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4101,
-    "Name": "CA_Cave_Particles_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4101,
     "Name": "Snowfox",
     "Type": "Gun",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4101,
-    "Name": "CA Mushroom (Morel)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4102,
-    "Name": "CA_Muzzle_Heavy",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4102,
-    "Name": "CA Mushroom (Black Trumpet)",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4102,
@@ -2035,32 +565,8 @@
   },
   {
     "ID": 4103,
-    "Name": "CA Mushroom (Bolete)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4103,
-    "Name": "CA_Muzzle_Tank",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4103,
     "Name": "CA_Stingray_Suppressor",
     "Type": "Barrel",
-    "Rarity": null
-  },
-  {
-    "ID": 4104,
-    "Name": "CA_Explosion_Vehicle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4104,
-    "Name": "CA Mushroom (Salt)",
-    "Type": "Resource",
     "Rarity": null
   },
   {
@@ -2071,27 +577,9 @@
   },
   {
     "ID": 4105,
-    "Name": "CA Mushroom (Chanterelle)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4105,
-    "Name": "CA_Explosion_Flashbang_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4105,
     "Name": "Tactical Cap",
     "Type": "Hat",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4106,
-    "Name": "CA Mushroom (Gymnopilus)",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4106,
@@ -2100,28 +588,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4106,
-    "Name": "CA_Explosion_Large",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4107,
-    "Name": "CA Mushroom (Panaeoleus)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4107,
     "Name": "Black Beach Shorts",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4107,
-    "Name": "CA_Explosion_Oil_Lamp",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4108,
@@ -2130,64 +600,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4108,
-    "Name": "CA Mushroom (Silly)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4108,
-    "Name": "CA_Birch_Explosion_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4109,
-    "Name": "CA Mushroom (Pluteus)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4109,
     "Name": "Green Beach Shorts",
     "Type": "Pants",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4109,
-    "Name": "CA_Cactus_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4110,
     "Name": "Orange Beach Shorts",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4110,
-    "Name": "CA_Cactus_Explosion_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4110,
-    "Name": "CA Mushroom (Galerina)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4111,
-    "Name": "CA_Cactus_Explosion_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4111,
-    "Name": "CA Mushroom (Jacko)",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4111,
@@ -2202,34 +624,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4112,
-    "Name": "CA Mushroom (Parasol)",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4112,
-    "Name": "CA_Palm_Explosion_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4113,
-    "Name": "CA_Palm_Explosion_3",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4113,
     "Name": "White Beach Shorts",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4113,
-    "Name": "CA Mushroom (Dapperling)",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4114,
@@ -2238,28 +636,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4114,
-    "Name": "CA_Willow_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4115,
-    "Name": "CA_Acacia_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4115,
     "Name": "CA_Carepackage",
     "Type": "Storage",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4116,
-    "Name": "CA_Acacia_Explosion_1",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4116,
@@ -2274,28 +654,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4117,
-    "Name": "CA_Thorny_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4117,
-    "Name": "CA Metal (Large) #3",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4118,
     "Name": "Lebel Magazine",
     "Type": "Magazine",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4118,
-    "Name": "CA_Cypress_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4119,
@@ -2304,76 +666,16 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4119,
-    "Name": "CA_Maple_Irradiated_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4120,
-    "Name": "CA_Pine_Irradiated_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4121,
-    "Name": "CA Burnt Birch #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4121,
     "Name": "Key Blueprint",
     "Type": "Food",
     "Rarity": "Rare"
   },
   {
-    "ID": 4121,
-    "Name": "CA_Birch_Snow_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4121,
-    "Name": "Abraham",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4122,
-    "Name": "CA Burnt Palm #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4122,
     "Name": "Rusted Key",
     "Type": "Supply",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4122,
-    "Name": "CA_Maple_Snow_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4123,
-    "Name": "Fighter Jet",
-    "Type": "Vehicle",
-    "Rarity": "Legendary"
-  },
-  {
-    "ID": 4123,
-    "Name": "CA Burnt Palm #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4123,
-    "Name": "CA_Pine_Snow_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4123,
@@ -2383,45 +685,9 @@
   },
   {
     "ID": 4124,
-    "Name": "Cargo Train",
-    "Type": "Vehicle",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4124,
-    "Name": "CA Willow #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4124,
     "Name": "Ranger Bottom",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4124,
-    "Name": "CA_Willow_Snow_Explosion_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4125,
-    "Name": "City Bus",
-    "Type": "Vehicle",
-    "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4125,
-    "Name": "CA Burnt Palm #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4125,
-    "Name": "PurpleRocks",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4125,
@@ -2431,33 +697,9 @@
   },
   {
     "ID": 4126,
-    "Name": "CA Crystal #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4126,
     "Name": "Ranger Belt",
     "Type": "Vest",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4126,
-    "Name": "Cargo Train",
-    "Type": "Vehicle",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4126,
-    "Name": "CityAmbience",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4127,
-    "Name": "CA Crystal #2",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4127,
@@ -2466,46 +708,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4127,
-    "Name": "SeasideAmbience",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4127,
-    "Name": "Sandpiper",
-    "Type": "Vehicle",
-    "Rarity": "Epic"
-  },
-  {
-    "ID": 4128,
-    "Name": "Hummingbird",
-    "Type": "Vehicle",
-    "Rarity": "Epic"
-  },
-  {
     "ID": 4128,
     "Name": "Firefighter Top",
     "Type": "Shirt",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4128,
-    "Name": "CA Willow #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4128,
-    "Name": "RefrigeratorRunning",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4129,
-    "Name": "Watchsun",
-    "Type": "Vehicle",
-    "Rarity": "Epic"
   },
   {
     "ID": 4129,
@@ -2520,40 +726,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4130,
-    "Name": "CA_Impact_Rubber",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4131,
     "Name": "Surgeon Bottom",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4131,
-    "Name": "CA Snowy Pine #8",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4131,
-    "Name": "CA_Impact_Crystal",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4132,
-    "Name": "CA_Explosion_Vehicle_Large",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4132,
-    "Name": "CA Cypress #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4132,
@@ -2563,27 +739,9 @@
   },
   {
     "ID": 4133,
-    "Name": "CA Cypress #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4133,
     "Name": "Headset",
     "Type": "Mask",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4133,
-    "Name": "CA_Door_Use",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4134,
-    "Name": "CA Pine #10",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4134,
@@ -2592,58 +750,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4134,
-    "Name": "CA_GlassSalvage_Effect",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4135,
     "Name": "Leather Poncho",
     "Type": "Vest",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4135,
-    "Name": "CA Pine #11",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4135,
-    "Name": "CA_Location_Major_Jingle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4136,
-    "Name": "CA_Location_Minor_Jingle",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4136,
-    "Name": "CA Joshua #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4136,
     "Name": "Hide Pack",
     "Type": "Backpack",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4137,
-    "Name": "CA_Explosion_Missiles",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4137,
-    "Name": "CA Axe Harvestable #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4137,
@@ -2658,45 +774,9 @@
     "Rarity": null
   },
   {
-    "ID": 4138,
-    "Name": "CA Axe Harvestable #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4138,
-    "Name": "CA_Smoke_Extinguisher",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4139,
-    "Name": "CA Blowtorch Harvestable",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4139,
-    "Name": "CA_Shell_4",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4139,
     "Name": "Jean Jacket",
     "Type": "Shirt",
-    "Rarity": null
-  },
-  {
-    "ID": 4140,
-    "Name": "CA Carjack Harvestable",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4140,
-    "Name": "CA_Embers",
-    "Type": "Effect",
     "Rarity": null
   },
   {
@@ -2706,46 +786,10 @@
     "Rarity": null
   },
   {
-    "ID": 4141,
-    "Name": "CA_Electricity",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4141,
-    "Name": "CA Crowbar Harvestable",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4142,
-    "Name": "CA_Explosion_Underwater",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4142,
-    "Name": "CA Industrial Gas Can Harvestable",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4142,
     "Name": "Explosive Toilet",
     "Type": "Throwable",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4143,
-    "Name": "CA Gas Can Harvestable",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4143,
-    "Name": "CA_Impact_Dusty",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4143,
@@ -2760,46 +804,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4144,
-    "Name": "CA Pickaxe Harvestable",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4144,
-    "Name": "CA_TireMotion_Dusty",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4145,
     "Name": "Medium Ammo Box",
     "Type": "Supply",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4145,
-    "Name": "CA_Tracer_Trail",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4145,
-    "Name": "CA Palm #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4146,
-    "Name": "CA_Ambience_Sewer_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4146,
-    "Name": "CA Boomflower #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4146,
@@ -2814,52 +822,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4147,
-    "Name": "CA Tar Bubbles",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4147,
-    "Name": "CA_Ambience_Void_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4148,
-    "Name": "CA Snowy Pine #5",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4148,
-    "Name": "CA_Carepackage_Dropping",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4149,
-    "Name": "CA_Carepackage_Plane",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4149,
-    "Name": "CA Snowy Pine #7",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4149,
     "Name": "Large Ammo Box",
     "Type": "Supply",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4150,
-    "Name": "CA_Carepackage_Signal",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4150,
@@ -2869,33 +835,9 @@
   },
   {
     "ID": 4151,
-    "Name": "CA_Casing_Medium_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4151,
-    "Name": "CA Snowy Pine #10",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4151,
     "Name": "Circuit Board",
     "Type": "Supply",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4152,
-    "Name": "CA Snowy Palm #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4152,
-    "Name": "CA_Explosion_Huge",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4152,
@@ -2905,27 +847,9 @@
   },
   {
     "ID": 4153,
-    "Name": "CA Snowy Palm #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4153,
-    "Name": "CA_Goblin_Scream",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4153,
     "Name": "Tech Scrap",
     "Type": "Supply",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4154,
-    "Name": "CA Snowy Palm #3",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4154,
@@ -2934,28 +858,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4154,
-    "Name": "CA_NPC_Poof",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4155,
     "Name": "Sandstone Doorway",
     "Type": "Structure",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4155,
-    "Name": "CA Metal (Large) #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4156,
-    "Name": "CA Heavy Helmet Harvestable #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4156,
@@ -2964,34 +870,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4156,
-    "Name": "CA_Grenade_Small",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4157,
     "Name": "Triangular Sandstone Floor",
     "Type": "Structure",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4157,
-    "Name": "CA Heavy Helmet Harvestable #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4157,
-    "Name": "CA_Cloth_Bag_Open",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4158,
-    "Name": "CA_Airdrop_Mesa",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4158,
@@ -3000,28 +882,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4158,
-    "Name": "CA Heavy Vest Harvestable #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4159,
     "Name": "Sandstone Roof Hole",
     "Type": "Structure",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4159,
-    "Name": "CA Heavy Vest Harvestable #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4160,
-    "Name": "CA Keycard Harvestable #1",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4160,
@@ -3031,33 +895,9 @@
   },
   {
     "ID": 4161,
-    "Name": "CA Keycard Harvestable #2",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4161,
-    "Name": "CA_Spotted_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4161,
     "Name": "Sandstone Post",
     "Type": "Structure",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4162,
-    "Name": "CA_Dialogue_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4162,
-    "Name": "CA Keycard Harvestable #3",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4162,
@@ -3067,33 +907,15 @@
   },
   {
     "ID": 4163,
-    "Name": "CA_Hmmm",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4163,
     "Name": "Sandstone Rampart",
     "Type": "Structure",
     "Rarity": "Rare"
   },
   {
     "ID": 4164,
-    "Name": "CA_Jimmy",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4164,
     "Name": "Sandstone Roof",
     "Type": "Structure",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4165,
-    "Name": "CA_Airdrop_ML",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4165,
@@ -3108,28 +930,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4166,
-    "Name": "CA_Airdrop_Mojave",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4167,
     "Name": "Sandstone Ramp Wall",
     "Type": "Structure",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4167,
-    "Name": "CA_Airdrop_Oakland",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4168,
-    "Name": "CA_Airdrop_SF",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4168,
@@ -3139,21 +943,9 @@
   },
   {
     "ID": 4169,
-    "Name": "CA Metal (Large) #5",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4169,
     "Name": "Sandstone Window",
     "Type": "Structure",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4169,
-    "Name": "CA_Airdrop_Toulumne",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4170,
@@ -3162,34 +954,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4170,
-    "Name": "CA_Dialogue_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4171,
     "Name": "Adobe Small Sign",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4171,
-    "Name": "CA Snowy Bush #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4171,
-    "Name": "CA_Dialogue_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4172,
-    "Name": "CA_Dialogue_3",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4172,
@@ -3198,40 +966,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4172,
-    "Name": "CA Snowy Bush #5",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4173,
-    "Name": "CA Cypress Snow #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
     "ID": 4173,
     "Name": "Shadowstalker",
     "Type": "Gun",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 4173,
-    "Name": "BanditAmbience_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4174,
-    "Name": "CA_Spotted_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4174,
-    "Name": "CA Cypress Snow #2",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4174,
@@ -3241,51 +979,15 @@
   },
   {
     "ID": 4175,
-    "Name": "CA Binoculars Harvestable #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4175,
     "Name": "Rail",
     "Type": "Magazine",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 4175,
-    "Name": "CA_BanditExplosion",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4176,
     "Name": "Sandstone Half Ramp",
     "Type": "Structure",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4176,
-    "Name": "CA_Hey",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4176,
-    "Name": "CA Palm #4",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4177,
-    "Name": "CA_Lever_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4177,
-    "Name": "CA Palm #7",
-    "Type": "Resource",
-    "Rarity": null
   },
   {
     "ID": 4177,
@@ -3300,34 +1002,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4178,
-    "Name": "CA Snowy Acacia #1",
-    "Type": "Resource",
-    "Rarity": null
-  },
-  {
-    "ID": 4178,
-    "Name": "CA_Lever_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4179,
     "Name": "Portable Gas Can",
     "Type": "Fuel",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4179,
-    "Name": "CA_Refill_Ammobox",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4180,
-    "Name": "CA_Refill_Magazine",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4180,
@@ -3336,28 +1014,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4181,
-    "Name": "CA_PM_Heli_Engine",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4182,
     "Name": "Extended Lebel Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4182,
-    "Name": "CA_PM_Heli_Explosion",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4183,
-    "Name": "CA_PM_Stage_Switch",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4183,
@@ -3372,18 +1032,6 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4184,
-    "Name": "CA_PM_Phone_Correct",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4185,
-    "Name": "CA_PM_Phone_Wrong",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4185,
     "Name": "Biohazard Top",
     "Type": "Shirt",
@@ -3396,18 +1044,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4186,
-    "Name": "CA_Fish_Bomb_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4187,
-    "Name": "CA_Explosion_Heart",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4187,
     "Name": "Industrial Gas Can",
     "Type": "Fuel",
@@ -3418,18 +1054,6 @@
     "Name": "Sandbag",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4188,
-    "Name": "CA_Muzzle_Cartoon",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4189,
-    "Name": "CA_Horde_Beacon",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4189,
@@ -3450,21 +1074,9 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4191,
-    "Name": "CA_Crafting_3D_Printer",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4192,
     "Name": "CA_HMG",
     "Type": "Gun",
-    "Rarity": null
-  },
-  {
-    "ID": 4192,
-    "Name": "CA_Crafting_Workbench",
-    "Type": "Effect",
     "Rarity": null
   },
   {
@@ -3474,28 +1086,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4193,
-    "Name": "CA_Tracer_Red",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4194,
     "Name": "CA_Tank_Cannon",
     "Type": "Gun",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4194,
-    "Name": "CA_Explosion_Barrel",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4195,
-    "Name": "CA_Airdrop_Mesa_Small",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4195,
@@ -3504,40 +1098,16 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 4196,
-    "Name": "CA_Airdrop_ML_Small",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4197,
     "Name": "Compact Binoculars",
     "Type": "Optic",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4197,
-    "Name": "CA_Airdrop_Mojave_Small",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4198,
     "Name": "12 Gauge Buckshot Shells",
     "Type": "Magazine",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4198,
-    "Name": "CA_Airdrop_Oakland_Small",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4199,
-    "Name": "CA_Airdrop_SF_Small",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4199,
@@ -3547,63 +1117,15 @@
   },
   {
     "ID": 4200,
-    "Name": "CA_Airdrop_Toulumne_Small",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4200,
     "Name": "12 Gauge Dragon's Breath Shells",
     "Type": "Magazine",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4200,
-    "Name": "CA_Sandstone",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4201,
-    "Name": "CA_Horde_Beacon_Small",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4201,
-    "Name": "CA_Charcoal",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4202,
-    "Name": "CA_Incendiary_1",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4202,
     "Name": "Biohazard Mask",
     "Type": "Mask",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4202,
-    "Name": "CA_Trees",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4203,
-    "Name": "CA_Vehicles",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4203,
-    "Name": "CA_Dog_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4203,
@@ -3613,33 +1135,9 @@
   },
   {
     "ID": 4204,
-    "Name": "CA_Cacti",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4204,
     "Name": "Molotov Cocktail",
     "Type": "Throwable",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4204,
-    "Name": "CA_Dog_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4205,
-    "Name": "CA_Kitchen",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4205,
-    "Name": "CA_Metal_0",
-    "Type": "Effect",
-    "Rarity": null
   },
   {
     "ID": 4205,
@@ -3654,46 +1152,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4206,
-    "Name": "CA_Explosion_Air_Bomb_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4206,
-    "Name": "CA_Kitchen_Food",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4207,
-    "Name": "CA_Explosion_Air_Bomb_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4207,
     "Name": "Umbra",
     "Type": "Gun",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4207,
-    "Name": "CA_Kitchen_Melee",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4208,
-    "Name": "CA_Explosion_Flashbang_1",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4208,
-    "Name": "CA_Food",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4209,
@@ -3702,34 +1164,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4209,
-    "Name": "CA_Food_Bars",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4209,
-    "Name": "CA_Water_Turret_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4210,
     "Name": "Bandit Cape #1",
     "Type": "Backpack",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 4210,
-    "Name": "CA_Explosion_Monarch_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4210,
-    "Name": "CA_Food_Bottled",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4211,
@@ -3738,58 +1176,16 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 4211,
-    "Name": "CA_Explosion_Sniper_0",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4211,
-    "Name": "CA_Food_Box",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4212,
     "Name": "Bandit Balacalava #1",
     "Type": "Mask",
     "Rarity": "Mythical"
   },
   {
-    "ID": 4212,
-    "Name": "CA_Food_Canned",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4212,
-    "Name": "CA_Lever_2",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
     "ID": 4213,
     "Name": "Bandit Facemask #1",
     "Type": "Mask",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 4213,
-    "Name": "CA_Food_Clothes",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4213,
-    "Name": "DesertAmbience",
-    "Type": "Effect",
-    "Rarity": null
-  },
-  {
-    "ID": 4214,
-    "Name": "CA_Food_Organic",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4214,
@@ -3799,39 +1195,15 @@
   },
   {
     "ID": 4215,
-    "Name": "CA_Grocery",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4215,
     "Name": "Bandit Gasmask #2",
     "Type": "Mask",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 4216,
-    "Name": "CA_Civilian_Vehicles",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4217,
-    "Name": "CA_Police",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4218,
     "Name": "Bandit Spine #1",
     "Type": "Backpack",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 4218,
-    "Name": "CA_Hatchback",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4219,
@@ -3858,22 +1230,10 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 4222,
-    "Name": "CA_Hills_Resort",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4223,
     "Name": "Growth Pustules #1",
     "Type": "Mask",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 4223,
-    "Name": "CA_Royal",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4224,
@@ -3882,22 +1242,10 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 4224,
-    "Name": "CA_Merc",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4225,
     "Name": "Bandit Pustules #3",
     "Type": "Backpack",
     "Rarity": "Mythical"
-  },
-  {
-    "ID": 4225,
-    "Name": "CA_Civilian_Vehicles_Desert",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4226,
@@ -3906,22 +1254,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4226,
-    "Name": "CA_Food_Vendor",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4227,
     "Name": "Blue Tank Top",
     "Type": "Shirt",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4227,
-    "Name": "CA_Food_Vendor_Soda",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4228,
@@ -3930,22 +1266,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4228,
-    "Name": "CA_Food_Vendor_Cola",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4229,
     "Name": "Orange Tank Top",
     "Type": "Shirt",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4229,
-    "Name": "CA_Botanist",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4230,
@@ -3954,22 +1278,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4230,
-    "Name": "CA_Gas",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4231,
     "Name": "Red Tank Top",
     "Type": "Shirt",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4231,
-    "Name": "CA_Gas_Clothes",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4232,
@@ -3978,28 +1290,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4232,
-    "Name": "CA_Gas_Melee",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4233,
-    "Name": "CA_Gas_Supplies",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4233,
     "Name": "Yellow Tank Top",
     "Type": "Shirt",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4234,
-    "Name": "CA_Gas_Tools",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4234,
@@ -4014,28 +1308,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4235,
-    "Name": "CA_Flare",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4236,
     "Name": "Green T-Shirt",
     "Type": "Shirt",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4236,
-    "Name": "CA_Bank",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4237,
-    "Name": "CA_Botanist_Barricades",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4237,
@@ -4050,28 +1326,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4238,
-    "Name": "CA_Botanist_Tools",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4239,
-    "Name": "CA_Seed",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4239,
     "Name": "Red T-Shirt",
     "Type": "Shirt",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4240,
-    "Name": "CA_Fish_Normal",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4240,
@@ -4081,33 +1339,15 @@
   },
   {
     "ID": 4241,
-    "Name": "CA_Fish_Small",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4241,
     "Name": "Yellow T-Shirt",
     "Type": "Shirt",
     "Rarity": "Common"
   },
   {
     "ID": 4242,
-    "Name": "CA_Camp",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4242,
     "Name": "Black DCC Coat",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4243,
-    "Name": "CA_Medic",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4243,
@@ -4122,22 +1362,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4244,
-    "Name": "CA_Farm",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4245,
     "Name": "Jeans",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4245,
-    "Name": "CA_School",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4246,
@@ -4152,22 +1380,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4247,
-    "Name": "CA_Fire",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4248,
     "Name": "Blue Shirt",
     "Type": "Shirt",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4248,
-    "Name": "CA_Post",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4249,
@@ -4176,22 +1392,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4249,
-    "Name": "CA_Arcadia",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4250,
     "Name": "White Shirt",
     "Type": "Shirt",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4250,
-    "Name": "CA_Crystal",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4251,
@@ -4206,40 +1410,16 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4252,
-    "Name": "CA_Camp_Barricades",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4253,
     "Name": "White Shirt",
     "Type": "Shirt",
     "Rarity": "Common"
   },
   {
-    "ID": 4253,
-    "Name": "CA_Camp_Clothes",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4254,
     "Name": "5$ Bill",
     "Type": "Medical",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4254,
-    "Name": "CA_Camp_Weapon",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4255,
-    "Name": "CA_Camp_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4255,
@@ -4254,28 +1434,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4256,
-    "Name": "CA_Camp_Tools",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4257,
-    "Name": "CA_Camp_Melee",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4257,
     "Name": "100$ Bill",
     "Type": "Medical",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4258,
-    "Name": "CA_Chef",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4258,
@@ -4290,28 +1452,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4259,
-    "Name": "CA_Farm_Clothes",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4260,
-    "Name": "CA_Farm_Melee",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4260,
     "Name": "Sandstone",
     "Type": "Supply",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4261,
-    "Name": "CA_Farm_Tools",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4261,
@@ -4323,18 +1467,6 @@
     "ID": 4262,
     "Name": "CA_Unobtainable",
     "Type": "Supply",
-    "Rarity": null
-  },
-  {
-    "ID": 4262,
-    "Name": "CA_Medic_Average",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4263,
-    "Name": "CA_Medic_Clothes",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -4350,28 +1482,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4264,
-    "Name": "CA_Medic_Common",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4265,
-    "Name": "CA_Medic_Rare",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4265,
     "Name": "Coil",
     "Type": "Supply",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4266,
-    "Name": "CA_Beach",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4266,
@@ -4381,33 +1495,15 @@
   },
   {
     "ID": 4267,
-    "Name": "CA_Trunks",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4267,
     "Name": "Metal Dust",
     "Type": "Supply",
     "Rarity": "Uncommon"
   },
   {
     "ID": 4268,
-    "Name": "CA_Civilian_Zombie",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4268,
     "Name": "Steel Ingot",
     "Type": "Supply",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4269,
-    "Name": "CA_Grocery_Zombie",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4269,
@@ -4422,22 +1518,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4270,
-    "Name": "CA_Civilian_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4271,
     "Name": "Charcoal",
     "Type": "Supply",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4271,
-    "Name": "CA_Civilian_Gun",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4272,
@@ -4446,40 +1530,16 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4272,
-    "Name": "CA_Civilian_Gun_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4273,
     "Name": "Ballistic Fiber",
     "Type": "Supply",
     "Rarity": "Rare"
   },
   {
-    "ID": 4273,
-    "Name": "CA_Civilian_Rifles",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4274,
     "Name": "Chemicals",
     "Type": "Medical",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4274,
-    "Name": "CA_Civilian_Rifle",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4275,
-    "Name": "CA_Civilian_Rifle_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4275,
@@ -4500,28 +1560,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4277,
-    "Name": "CA_Civilian_Supplies",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4278,
     "Name": "Concrete Bag",
     "Type": "Supply",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4278,
-    "Name": "CA_Civilian_Melee",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4279,
-    "Name": "CA_Cloths",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4279,
@@ -4536,22 +1578,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4280,
-    "Name": "CA_Civilian_Special",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4281,
     "Name": "Metal Can",
     "Type": "Supply",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4281,
-    "Name": "CA_Cloths_Shirts_Pants",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4282,
@@ -4560,28 +1590,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4282,
-    "Name": "CA_Fire_Zombie",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4283,
     "Name": "Toilet Paper",
     "Type": "Supply",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4283,
-    "Name": "CA_Barrel_Devices",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4284,
-    "Name": "CA_Research_High",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4284,
@@ -4596,18 +1608,6 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4285,
-    "Name": "CA_Research_High_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4286,
-    "Name": "CA_Research_High_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4286,
     "Name": "Hide",
     "Type": "Supply",
@@ -4615,21 +1615,9 @@
   },
   {
     "ID": 4287,
-    "Name": "CA_Research_High_Supply",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4287,
     "Name": "Leather",
     "Type": "Supply",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4288,
-    "Name": "CA_Research_Supply",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4288,
@@ -4650,76 +1638,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4290,
-    "Name": "CA_Military_Carrier_Plate_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4291,
-    "Name": "CA_Military_High_Special_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4292,
-    "Name": "CA_Military_High_Cloth_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4293,
-    "Name": "CA_Military_Low_Cloth_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4294,
-    "Name": "CA_Military_High_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4295,
-    "Name": "CA_Military_Low_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4296,
-    "Name": "CA_Military_Barricades",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4297,
-    "Name": "CA_Military_High_Tools",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4298,
-    "Name": "CA_Military_Low_Tools",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4299,
-    "Name": "CA_Smoke",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4299,
     "Name": "Rock Salt",
     "Type": "Supply",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4300,
-    "Name": "CA_PMC_Low_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4300,
@@ -4729,20 +1651,8 @@
   },
   {
     "ID": 4301,
-    "Name": "CA_PMC_Low_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4301,
     "Name": "Canned Beans",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4302,
-    "Name": "CA_PMC_Low_Guns",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -4758,18 +1668,6 @@
     "Rarity": null
   },
   {
-    "ID": 4303,
-    "Name": "CA_PMC_Low_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4304,
-    "Name": "CA_PMC_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4304,
     "Name": "Canned Fish",
     "Type": "Food",
@@ -4782,39 +1680,15 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4305,
-    "Name": "CA_PMC_High_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4306,
     "Name": "Cloth Bundle",
     "Type": "Barricade",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4306,
-    "Name": "CA_PMC_High_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4307,
     "Name": "Chocolate Bar",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4307,
-    "Name": "CA_PMC_High_Special",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4308,
-    "Name": "CA_PMC_High",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -4825,32 +1699,14 @@
   },
   {
     "ID": 4309,
-    "Name": "CA_Richmans_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4309,
     "Name": "Granola Bar",
     "Type": "Food",
     "Rarity": null
   },
   {
     "ID": 4310,
-    "Name": "CA_Richmans_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4310,
     "Name": "Energy Bar",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4311,
-    "Name": "CA_Richmans_Mags",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -4866,27 +1722,9 @@
     "Rarity": null
   },
   {
-    "ID": 4312,
-    "Name": "CA_Richmans_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4313,
-    "Name": "CA_Richmans_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4313,
     "Name": "Canned Beef",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4314,
-    "Name": "CA_Richmans_Low",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -4897,20 +1735,8 @@
   },
   {
     "ID": 4315,
-    "Name": "CA_Research",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4315,
     "Name": "Carrot",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4316,
-    "Name": "CA_Research_Special_High",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -4950,27 +1776,9 @@
     "Rarity": null
   },
   {
-    "ID": 4321,
-    "Name": "CA_Police_High_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4322,
-    "Name": "CA_Police_High_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4322,
     "Name": "Tomato Seed",
     "Type": "Farm",
-    "Rarity": null
-  },
-  {
-    "ID": 4323,
-    "Name": "CA_Police_High",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -4983,18 +1791,6 @@
     "ID": 4324,
     "Name": "Wheat Seed",
     "Type": "Farm",
-    "Rarity": null
-  },
-  {
-    "ID": 4324,
-    "Name": "CA_Police_Special",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4325,
-    "Name": "CA_Cloths_Windbreaker",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5023,12 +1819,6 @@
   },
   {
     "ID": 4329,
-    "Name": "CA_Special_Low_Explosives",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4329,
     "Name": "Chocolate Cake",
     "Type": "Food",
     "Rarity": "Epic"
@@ -5040,27 +1830,9 @@
     "Rarity": null
   },
   {
-    "ID": 4330,
-    "Name": "CA_PMC_Special_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4331,
     "Name": "Cooked Trout",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4331,
-    "Name": "CA_PMC_Special_Low_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4332,
-    "Name": "CA_PMC_Special_Low_Guns",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5071,32 +1843,14 @@
   },
   {
     "ID": 4333,
-    "Name": "CA_PMC_Special_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4333,
     "Name": "Cooked Salmon",
     "Type": "Food",
     "Rarity": "Uncommon"
   },
   {
     "ID": 4334,
-    "Name": "CA_Special_Ghillie",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4334,
     "Name": "Raw Steak",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4335,
-    "Name": "CA_SWAT_High",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5112,21 +1866,9 @@
     "Rarity": null
   },
   {
-    "ID": 4336,
-    "Name": "CA_SWAT_Guns_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4337,
     "Name": "Cooked Bacon",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4337,
-    "Name": "CA_SWAT_Mags_Low",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5134,18 +1876,6 @@
     "Name": "BLT Sandwich",
     "Type": "Food",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4338,
-    "Name": "CA_SWAT_Cloths_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4339,
-    "Name": "CA_SWAT_Special_Low",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4339,
@@ -5160,21 +1890,9 @@
     "Rarity": null
   },
   {
-    "ID": 4340,
-    "Name": "CA_Hunting_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4341,
     "Name": "Pumpkin Seed",
     "Type": "Farm",
-    "Rarity": null
-  },
-  {
-    "ID": 4341,
-    "Name": "CA_Hunting_Ammo",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5184,27 +1902,9 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4342,
-    "Name": "CA_Hunting_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4343,
-    "Name": "CA_Hunting_Special",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4343,
     "Name": "Raw Amber Berries",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4344,
-    "Name": "CA_Hunting",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5220,18 +1920,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4345,
-    "Name": "CA_SWAT_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4346,
-    "Name": "CA_Research_Special_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4346,
     "Name": "Raw Indigo Berries",
     "Type": "Water",
@@ -5241,18 +1929,6 @@
     "ID": 4347,
     "Name": "Indigo Berry Seed",
     "Type": "Farm",
-    "Rarity": null
-  },
-  {
-    "ID": 4347,
-    "Name": "CA_Research_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4348,
-    "Name": "CA_Research_Mags",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5268,27 +1944,9 @@
     "Rarity": null
   },
   {
-    "ID": 4349,
-    "Name": "CA_Mercenaries_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4350,
     "Name": "Jade Berry Seed",
     "Type": "Farm",
-    "Rarity": null
-  },
-  {
-    "ID": 4350,
-    "Name": "CA_Mercenaries_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4351,
-    "Name": "CA_Mercenaries_Special",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5296,12 +1954,6 @@
     "Name": "Jade Pie",
     "Type": "Food",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4352,
-    "Name": "CA_Mercenaries_Low",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4352,
@@ -5316,22 +1968,10 @@
     "Rarity": null
   },
   {
-    "ID": 4353,
-    "Name": "CA_Police_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4354,
     "Name": "Mauve Pie",
     "Type": "Food",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4354,
-    "Name": "CA_Police_Low",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4355,
@@ -5340,27 +1980,9 @@
     "Rarity": null
   },
   {
-    "ID": 4355,
-    "Name": "CA_SWAT_Guns_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4356,
     "Name": "Russet Berry Seed",
     "Type": "Farm",
-    "Rarity": null
-  },
-  {
-    "ID": 4356,
-    "Name": "CA_SWAT_Mags_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4357,
-    "Name": "CA_SWAT_Special_High",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5371,26 +1993,8 @@
   },
   {
     "ID": 4358,
-    "Name": "CA_PMC_High_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4358,
     "Name": "Raw Teal Berries",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4359,
-    "Name": "CA_PMC_Melee",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4359,
-    "Name": "CA_PMC_Melee",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5401,21 +2005,9 @@
   },
   {
     "ID": 4360,
-    "Name": "CA_PMC_Special_Gear",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4360,
     "Name": "Teal Pie",
     "Type": "Food",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4361,
-    "Name": "CA_PMC_Special_High",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4361,
@@ -5430,28 +2022,10 @@
     "Rarity": null
   },
   {
-    "ID": 4362,
-    "Name": "CA_PMC_Special_High_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4363,
-    "Name": "CA_PMC_Special_High_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4363,
     "Name": "Vermillion Pie",
     "Type": "Food",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4364,
-    "Name": "CA_Mercenaries_Cloths",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4364,
@@ -5461,20 +2035,8 @@
   },
   {
     "ID": 4365,
-    "Name": "CA_Mercenaries_Cloths_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4365,
     "Name": "Cooked Goldfish",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4366,
-    "Name": "CA_Mercenaries_Carrier_Plate",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5485,20 +2047,8 @@
   },
   {
     "ID": 4367,
-    "Name": "CA_Mercenaries_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4367,
     "Name": "Split Coconut",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4368,
-    "Name": "CA_Printer",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5515,33 +2065,15 @@
   },
   {
     "ID": 4370,
-    "Name": "CA_Research_Cloths",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4370,
     "Name": "Raw Bass",
     "Type": "Food",
     "Rarity": "Rare"
   },
   {
     "ID": 4371,
-    "Name": "CA_Special_Low_Gear",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4371,
     "Name": "Cooked Bass",
     "Type": "Food",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4372,
-    "Name": "CA_Sawmill_Melee",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4372,
@@ -5556,18 +2088,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4373,
-    "Name": "CA_Sawmill_Supply",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4374,
-    "Name": "CA_Sawmill",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4374,
     "Name": "Raw Patty",
     "Type": "Food",
@@ -5580,27 +2100,9 @@
     "Rarity": null
   },
   {
-    "ID": 4375,
-    "Name": "CA_SWAT_Supply",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4376,
     "Name": "Dough",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4376,
-    "Name": "CA_Military_Low_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4377,
-    "Name": "CA_Military_Low_Cloth_0",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5616,27 +2118,9 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4378,
-    "Name": "CA_Military_Low_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4379,
-    "Name": "CA_Military_Low_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4379,
     "Name": "Chips",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4380,
-    "Name": "CA_Military_Low_Guns",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5652,28 +2136,10 @@
     "Rarity": null
   },
   {
-    "ID": 4381,
-    "Name": "CA_Military_High_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4382,
-    "Name": "CA_Military_High_Cloth_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4382,
     "Name": "Maple Syrup",
     "Type": "Water",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4383,
-    "Name": "CA_Military_High_Mags",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4383,
@@ -5688,27 +2154,9 @@
     "Rarity": null
   },
   {
-    "ID": 4384,
-    "Name": "CA_Military_High_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4385,
     "Name": "Raw Minnow",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4385,
-    "Name": "CA_Military_High_Special_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4386,
-    "Name": "CA_Military_Carrier_Plate_0",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5719,20 +2167,8 @@
   },
   {
     "ID": 4387,
-    "Name": "CA_Special_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4387,
     "Name": "Refined Amber Berries",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4388,
-    "Name": "CA_Special_Low_Mags",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5748,21 +2184,9 @@
     "Rarity": null
   },
   {
-    "ID": 4389,
-    "Name": "CA_Special_Low_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4390,
     "Name": "Refined Mauve Berries",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4390,
-    "Name": "CA_Special_High",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5772,21 +2196,9 @@
     "Rarity": null
   },
   {
-    "ID": 4391,
-    "Name": "CA_Special_High_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4392,
     "Name": "Refined Teal Berries",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4392,
-    "Name": "CA_Special_Gear",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5796,33 +2208,9 @@
     "Rarity": null
   },
   {
-    "ID": 4393,
-    "Name": "CA_Special_High_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4394,
     "Name": "Coconut Carton",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4394,
-    "Name": "CA_Special_Cloths",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4394,
-    "Name": "CA_Special_Cloths",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4395,
-    "Name": "CA_Militia_Russia",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5833,32 +2221,14 @@
   },
   {
     "ID": 4396,
-    "Name": "CA_Militia_Russia_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4396,
     "Name": "Canned Cola",
     "Type": "Water",
     "Rarity": null
   },
   {
     "ID": 4397,
-    "Name": "CA_Militia_Russia_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4397,
     "Name": "Bottled Soda",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4398,
-    "Name": "CA_Militia_Special",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5874,21 +2244,9 @@
     "Rarity": null
   },
   {
-    "ID": 4399,
-    "Name": "CA_Militia_Sawmill",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4400,
     "Name": "Bottled Water",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4400,
-    "Name": "CA_Civilian",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -5898,45 +2256,9 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4401,
-    "Name": "CA Bikers Vendor",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4401,
-    "Name": "CA_Mine",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4402,
     "Name": "Apple Juice",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4402,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4402,
-    "Name": "CA_Militia_Germany",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4403,
-    "Name": "CA_Militia_Germany_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4403,
-    "Name": "Asset",
-    "Type": "Dialogue",
     "Rarity": null
   },
   {
@@ -5952,24 +2274,6 @@
     "Rarity": null
   },
   {
-    "ID": 4404,
-    "Name": "CA_Militia_Germany_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4404,
-    "Name": "<color=legendary>Daytime</color> Bikers Armory",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 4405,
-    "Name": "CA_Hardbass_Clothing",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4405,
     "Name": "Potato Seed",
     "Type": "Farm",
@@ -5977,27 +2281,9 @@
   },
   {
     "ID": 4406,
-    "Name": "CA_Research_Special_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4406,
     "Name": "Rag",
     "Type": "Medical",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4407,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4407,
-    "Name": "CA_Research_Special_Mags",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4407,
@@ -6012,46 +2298,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4408,
-    "Name": "CA_Carepackage_Armory",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4408,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4409,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4409,
-    "Name": "CA_Carepackage",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4409,
     "Name": "Medkit",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4410,
-    "Name": "<color=mythical>Nighttime</color> Bikers Armory",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 4410,
-    "Name": "CA_Carepackage_Supply",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4410,
@@ -6060,34 +2310,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4411,
-    "Name": "CA Bikers Boss",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4411,
-    "Name": "CA_Military_Zombie_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4412,
-    "Name": "CA_Military_Zombie_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4412,
     "Name": "Antibiotics",
     "Type": "Medical",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4412,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4413,
@@ -6096,40 +2322,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4413,
-    "Name": "CA_Military_Zombie_Elite_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4414,
-    "Name": "CA_Military_Zombie_Elite_Drop",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4414,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4414,
     "Name": "Splint",
     "Type": "Medical",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4415,
-    "Name": "CA_Military_Zombie_Meds",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4415,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4415,
@@ -6144,46 +2340,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4416,
-    "Name": "CA_Military_Zombie_Weapons",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4416,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4417,
     "Name": "Vitamins",
     "Type": "Medical",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4417,
-    "Name": "Bikers Armored Vehicles",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 4417,
-    "Name": "CA_Military_High_Special_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4418,
-    "Name": "CA_Military_Zombie_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4418,
-    "Name": "CA Bikers Domino (Door - Locked)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4418,
@@ -6193,33 +2353,9 @@
   },
   {
     "ID": 4419,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4419,
     "Name": "Morphine",
     "Type": "Medical",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4419,
-    "Name": "CA_Military_Zombie_Elite_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4420,
-    "Name": "CA_Construction",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4421,
-    "Name": "CA_Construction_Materials",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4421,
@@ -6229,39 +2365,15 @@
   },
   {
     "ID": 4422,
-    "Name": "CA_Construction_Common",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4422,
     "Name": "Adrenaline",
     "Type": "Medical",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4422,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4423,
-    "Name": "CA_Construction_Average",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4423,
     "Name": "Adrenaline",
     "Type": "Medical",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4424,
-    "Name": "CA_Construction_Rare",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4424,
@@ -6270,63 +2382,15 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4425,
-    "Name": "CA Bikers Domino (Door - Unlocked)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4425,
-    "Name": "CA_Construction_Weaponry",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4426,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4426,
     "Name": "HMG Box",
     "Type": "Magazine",
     "Rarity": "Legendary"
   },
   {
-    "ID": 4426,
-    "Name": "CA_Construction_Melee",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4427,
     "Name": "Lettuce",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4427,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4427,
-    "Name": "CA_Construction_Ranged",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4428,
-    "Name": "CA_Construction_Clothing",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4428,
-    "Name": "Asset",
-    "Type": "Dialogue",
     "Rarity": null
   },
   {
@@ -6342,40 +2406,10 @@
     "Rarity": null
   },
   {
-    "ID": 4429,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4429,
-    "Name": "CA_Construction_Shirts",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4430,
-    "Name": "CA_Construction_Pants",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4430,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4430,
     "Name": "Wooden Floor",
     "Type": "Structure",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4431,
-    "Name": "CA_Construction_Misc",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4431,
@@ -6385,33 +2419,9 @@
   },
   {
     "ID": 4432,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4432,
-    "Name": "CA_Construction_Barricades",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4432,
     "Name": "Wooden Roof",
     "Type": "Structure",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4433,
-    "Name": "CA_Concrete_Factory",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4433,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4433,
@@ -6421,45 +2431,15 @@
   },
   {
     "ID": 4434,
-    "Name": "CA_Military_Fort_Zombie",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4434,
     "Name": "Wooden Roof Hole",
     "Type": "Structure",
     "Rarity": "Uncommon"
   },
   {
     "ID": 4435,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4435,
     "Name": "Wooden Wall",
     "Type": "Structure",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4435,
-    "Name": "CA_Military_Fort",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4436,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4436,
-    "Name": "CA_Military_Fort_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4436,
@@ -6474,40 +2454,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4437,
-    "Name": "CA_Military_Fort_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4437,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4438,
     "Name": "Wooden Post",
     "Type": "Structure",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4438,
-    "Name": "CA_Military_Fort_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4438,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4439,
-    "Name": "CA_Military_Fort_Guns",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4439,
@@ -6516,28 +2466,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4439,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4440,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4440,
     "Name": "Wooden Stairs",
     "Type": "Structure",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4440,
-    "Name": "CA_Military_Fort_Tools",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4441,
@@ -6546,34 +2478,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4441,
-    "Name": "CA_Military_Reactor_Zombie",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4441,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4442,
-    "Name": "CA_Military_Reactor",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4442,
     "Name": "Wooden Rampart",
     "Type": "Structure",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4442,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4443,
@@ -6582,34 +2490,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4443,
-    "Name": "CA_Military_Reactor_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4444,
-    "Name": "CA_Military_Reactor_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4444,
     "Name": "Wooden Garage",
     "Type": "Structure",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4444,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4445,
-    "Name": "CA_Military_Reactor_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4445,
@@ -6619,21 +2503,9 @@
   },
   {
     "ID": 4446,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4446,
     "Name": "Wood Counter",
     "Type": "Storage",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4446,
-    "Name": "CA_Military_Reactor_Guns",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4447,
@@ -6642,64 +2514,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4447,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4447,
-    "Name": "CA_Military_Reactor_Special",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4448,
     "Name": "Wood Crate",
     "Type": "Storage",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4448,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4448,
-    "Name": "CA_Military_Fort_Mega",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4449,
     "Name": "Large Wood Crate",
     "Type": "Storage",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4449,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4449,
-    "Name": "CA_Holo_Sights",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4450,
-    "Name": "CA Bikers Austy (Bar - Night#1)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4450,
-    "Name": "CA_Police_Low_Tools",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4450,
@@ -6709,27 +2533,9 @@
   },
   {
     "ID": 4451,
-    "Name": "CA Bikers Austy (Bar - Night#2)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4451,
-    "Name": "CA_Police_Low_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4451,
     "Name": "Wood Doubledoor",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4452,
-    "Name": "CA_Police_Low_Mags",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4452,
@@ -6738,46 +2544,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4452,
-    "Name": "CA Bikers Austy (Wild)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4453,
     "Name": "Wood Fortification",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4453,
-    "Name": "CA_Police_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4454,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4454,
-    "Name": "CA_Ranger",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4455,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4455,
-    "Name": "CA_Ranger_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4455,
@@ -6792,46 +2562,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4456,
-    "Name": "CA_Ranger_Clothes",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4457,
     "Name": "Small Wood Placard",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4457,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4457,
-    "Name": "CA_Ranger_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4458,
-    "Name": "CA_Ranger_Melee",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4458,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4459,
-    "Name": "CA_Ranger_Tools",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4459,
@@ -6840,40 +2574,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4459,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4460,
     "Name": "Wood Shutter",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4460,
-    "Name": "CA_Ranger_Zombie",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4460,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4461,
-    "Name": "CA_Cache_PMC_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4461,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4461,
@@ -6882,52 +2586,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4462,
-    "Name": "CA_Cache_PMC_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4462,
-    "Name": "<color=#a67fc9>When Fall Comes</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
     "ID": 4463,
     "Name": "Wood Table",
     "Type": "Barricade",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4463,
-    "Name": "CA_Cache_PMC_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4464,
-    "Name": "CA_Cache_PMC_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4464,
     "Name": "Wood Table",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4464,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4465,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4465,
@@ -6937,57 +2605,15 @@
   },
   {
     "ID": 4466,
-    "Name": "CA_BBunker_Richmans_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4466,
-    "Name": "CA Bikers Austy (Wild - Hat)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4466,
     "Name": "Wood Table",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4467,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4467,
-    "Name": "CA_BBunker_Richmans_High",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4467,
     "Name": "Torch",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4468,
-    "Name": "CA_BBunker_Richmans_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4469,
-    "Name": "CA Bikers Marty #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4469,
-    "Name": "CA_BBunker_Richmans_Mags",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4469,
@@ -6997,27 +2623,9 @@
   },
   {
     "ID": 4470,
-    "Name": "CA Bikers Austy (Bar - Night#1 - Hat)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4470,
-    "Name": "CA_Tier2_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4470,
     "Name": "Wood Wardrobe",
     "Type": "Storage",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4471,
-    "Name": "CA_Whitney_Military_Low",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4471,
@@ -7026,64 +2634,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4471,
-    "Name": "CA Bikers Austy (Bar - Night#2 - Hat)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4472,
-    "Name": "CA Bikers John #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4472,
-    "Name": "CA_Whitney_Military_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4472,
     "Name": "Wood Sofa",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4473,
-    "Name": "CA_Whitney_Military_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4473,
-    "Name": "CA Bikers John #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4474,
-    "Name": "CA_Whitney_Military_Low_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4474,
-    "Name": "CA Bikers Sebastian #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4475,
-    "Name": "CA_Whitney_Military_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4475,
-    "Name": "CA Bar Player #1",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4475,
@@ -7098,39 +2652,9 @@
     "Rarity": null
   },
   {
-    "ID": 4476,
-    "Name": "CA_Whitney_Military_Low_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4476,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4477,
     "Name": "Mushroom",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4477,
-    "Name": "CA_Whitney_Military_Special",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4477,
-    "Name": "CA Bar Player #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4478,
-    "Name": "CA_Whitney_Military_High_Zombie",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -7140,39 +2664,9 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4478,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4479,
-    "Name": "CA_Whitney_Military_High_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4479,
     "Name": "Mushroom",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4479,
-    "Name": "CA Sculptor Paulie",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4480,
-    "Name": "CA Sculptor Nik",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4480,
-    "Name": "CA_Whitney_Military_High_Mags",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -7183,20 +2677,8 @@
   },
   {
     "ID": 4481,
-    "Name": "CA_Whitney_Military_Low_Zombie",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4481,
     "Name": "Mushroom",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4481,
-    "Name": "Asset",
-    "Type": "Dialogue",
     "Rarity": null
   },
   {
@@ -7206,39 +2688,9 @@
     "Rarity": null
   },
   {
-    "ID": 4482,
-    "Name": "CA_Mesadyne_Ammo",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4483,
-    "Name": "CA_Mesadyne_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4483,
     "Name": "Mushroom",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4483,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4484,
-    "Name": "CA_Mesadyne_Low_Mags",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4484,
-    "Name": "Asset",
-    "Type": "Dialogue",
     "Rarity": null
   },
   {
@@ -7249,20 +2701,8 @@
   },
   {
     "ID": 4485,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4485,
     "Name": "Mushroom",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4485,
-    "Name": "CA_Mesadyne_Low_Guns",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -7272,27 +2712,9 @@
     "Rarity": null
   },
   {
-    "ID": 4486,
-    "Name": "CA_Mesadyne_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4487,
     "Name": "Mushroom",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4487,
-    "Name": "<color=#eba4d4>Statue Hunt</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4487,
-    "Name": "CA_Mesadyne_High_Mags",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -7302,27 +2724,9 @@
     "Rarity": null
   },
   {
-    "ID": 4488,
-    "Name": "CA_Mesadyne_High_Guns",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4489,
-    "Name": "CA_Mesadyne_Special",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4489,
     "Name": "Mushroom",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4490,
-    "Name": "CA_Mesadyne_Low_Zombie",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -7335,12 +2739,6 @@
     "ID": 4491,
     "Name": "Mushroom",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4491,
-    "Name": "CA_Mesadyne_High_Zombie",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -7362,18 +2760,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4494,
-    "Name": "<color=gold>Golden Rot</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4495,
-    "Name": "CA_Animal_Generic",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4495,
     "Name": "Stack of Compound",
     "Type": "Barricade",
@@ -7381,33 +2767,9 @@
   },
   {
     "ID": 4496,
-    "Name": "<color=#eba4d4>Inbetween Somewhere Beautiful</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4496,
-    "Name": "CA_Daypacks",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4496,
     "Name": "Stack of Concrete Hardener",
     "Type": "Barricade",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4497,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4497,
-    "Name": "CA_SWAT_Mega",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4497,
@@ -7422,58 +2784,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4498,
-    "Name": "CA_Dead_Blackbear",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4499,
     "Name": "Pizza Socks",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4499,
-    "Name": "CA_Dead_Coyote",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4499,
-    "Name": "<color=rare>Golden Sky Studio</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 4500,
-    "Name": "CA_Dead_Fox",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4500,
-    "Name": "CA Survivors Frank",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4501,
-    "Name": "CA_Dead_Grizzly",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4501,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4502,
-    "Name": "CA_Dead_Goat",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4502,
@@ -7488,30 +2802,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4503,
-    "Name": "CA_Dead_Deer_Female",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4503,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4504,
-    "Name": "CA_Dead_Deer_Male",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4504,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4504,
     "Name": "Stack of Tape",
     "Type": "Barricade",
@@ -7524,40 +2814,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4505,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4505,
-    "Name": "CA_Dead_Raccoon",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4506,
     "Name": "Topiary",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4506,
-    "Name": "CA_Quad",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4506,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4507,
-    "Name": "<color=#ebc5a9>For Tomorrow</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4507,
@@ -7567,45 +2827,15 @@
   },
   {
     "ID": 4508,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4508,
-    "Name": "CA_Circuit_Board",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4508,
     "Name": "Topiary",
     "Type": "Barricade",
     "Rarity": "Uncommon"
   },
   {
     "ID": 4509,
-    "Name": "CA_Medic_Medkit",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4509,
     "Name": "Topiary",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4510,
-    "Name": "<color=#ebc5a9>Fix You</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4510,
-    "Name": "CA_Plumbing",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4510,
@@ -7618,18 +2848,6 @@
     "Name": "Doughnut",
     "Type": "Food",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4511,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4511,
-    "Name": "CA_Police_Food",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4512,
@@ -7638,28 +2856,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4512,
-    "Name": "CA_Toaster",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4513,
-    "Name": "CA_Dumpster",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4513,
     "Name": "Doughnut",
     "Type": "Food",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4514,
-    "Name": "CA_Fisher",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4514,
@@ -7674,34 +2874,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4515,
-    "Name": "CA_Grips_Low",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4516,
     "Name": "Doughnut",
     "Type": "Food",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4516,
-    "Name": "CA_Grips_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4517,
-    "Name": "CA_Paint_Can",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4517,
-    "Name": "NPC Invisible",
-    "Type": "Shirt",
-    "Rarity": null
   },
   {
     "ID": 4518,
@@ -7710,40 +2886,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4518,
-    "Name": "CA_Fort_Gas",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4519,
-    "Name": "CA_Baggage",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4520,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4520,
     "Name": "Romeo",
     "Type": "Gun",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4520,
-    "Name": "CA_Gunpowder",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4521,
-    "Name": "CA_Food_Vendor_Trash",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4521,
@@ -7753,21 +2899,9 @@
   },
   {
     "ID": 4522,
-    "Name": "CA Shady Merchant",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4522,
     "Name": "Magnum Pistol Magazine",
     "Type": "Magazine",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4522,
-    "Name": "CA_PMC_Advanced_Clothes",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4523,
@@ -7776,52 +2910,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4523,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4523,
-    "Name": "CA_Pistol",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4524,
-    "Name": "CA_Scope",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4525,
     "Name": "Viper Magazine",
     "Type": "Magazine",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4525,
-    "Name": "CA_Alient_Liquid",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4525,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4526,
-    "Name": "<color=rare>The Shady Pharmacy</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 4526,
-    "Name": "CA_Mesadyne_Mega",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4526,
@@ -7831,21 +2923,9 @@
   },
   {
     "ID": 4527,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4527,
     "Name": "Squeekhammer",
     "Type": "Melee",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4527,
-    "Name": "CA_Whitney_Military_Mega",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4528,
@@ -7854,64 +2934,16 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4528,
-    "Name": "CA_Fish_Large",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4528,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4529,
-    "Name": "CA_Fish_Magnetic",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4529,
     "Name": "Covenant Holo Sight",
     "Type": "Sight",
     "Rarity": "Rare"
   },
   {
-    "ID": 4529,
-    "Name": "<color=#caebe2>The Lost Convoy</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4530,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4530,
-    "Name": "CA_Fish_Ultra",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4530,
     "Name": "Gamma Holo Sight",
     "Type": "Sight",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4531,
-    "Name": "CA_Fish_Proto",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4531,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4531,
@@ -7926,18 +2958,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4532,
-    "Name": "CA_Fish_Harvesting",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4533,
-    "Name": "CA_Fish_Kelly",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4533,
     "Name": "Opsec Suppressor",
     "Type": "Barrel",
@@ -7950,40 +2970,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4534,
-    "Name": "CA_Metal_Can",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4534,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4535,
-    "Name": "CA_Plastic_Bottle",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4535,
     "Name": "Lance Compensator",
     "Type": "Barrel",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4535,
-    "Name": "<color=#ebc5a9>Come As You Are</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4536,
-    "Name": "CA_Sandpiper",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4536,
@@ -7993,38 +2983,14 @@
   },
   {
     "ID": 4537,
-    "Name": "CA_Doughnut",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4537,
-    "Name": "<color=#c97f7f>Surrender</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4537,
     "Name": "Red Tactical Laser",
     "Type": "Tactical",
     "Rarity": "Rare"
   },
   {
     "ID": 4538,
-    "Name": "CA_Pizza",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4538,
     "Name": "Choccy Milk Carton",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4539,
-    "Name": "CA_Hummingbird",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -8035,26 +3001,8 @@
   },
   {
     "ID": 4540,
-    "Name": "CA_Metal",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4540,
     "Name": "Pineapple Carton",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4541,
-    "Name": "CA Survivors Julia",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4541,
-    "Name": "CA_Fire_Zombie_High",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -8065,20 +3013,8 @@
   },
   {
     "ID": 4542,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4542,
     "Name": "Bottled Water",
     "Type": "Water",
-    "Rarity": null
-  },
-  {
-    "ID": 4543,
-    "Name": "CA_Spraypaint",
-    "Type": "Spawn",
     "Rarity": null
   },
   {
@@ -8089,45 +3025,9 @@
   },
   {
     "ID": 4544,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4544,
-    "Name": "CA_Spraypaint_Military",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4544,
     "Name": "Gryffon",
     "Type": "Gun",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4545,
-    "Name": "CA_Spraypaint_Crate",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4545,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4546,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4546,
-    "Name": "CA_Horde_Lure",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4546,
@@ -8142,28 +3042,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4547,
-    "Name": "CA_Beacon",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4548,
     "Name": "Tier 2 Keycard",
     "Type": "Supply",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4548,
-    "Name": "CA_Beacon_Armory",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4549,
-    "Name": "CA_Beacon_Supply",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4549,
@@ -8172,34 +3054,10 @@
     "Rarity": "Mythical"
   },
   {
-    "ID": 4549,
-    "Name": "CA Andy",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4550,
-    "Name": "CA_Cotton_Crop",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4550,
     "Name": "Wooden Half Ramp",
     "Type": "Structure",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4550,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4551,
-    "Name": "CA_Berry_Seeds",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4551,
@@ -8209,27 +3067,9 @@
   },
   {
     "ID": 4552,
-    "Name": "CA_Beacon_Raiding",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4552,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4552,
     "Name": "Concrete Floor",
     "Type": "Structure",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4553,
-    "Name": "<color=#caebe2>Wind of Change</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4553,
@@ -8238,22 +3078,10 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 4553,
-    "Name": "CA_Sentry",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4554,
     "Name": "Concrete Garage",
     "Type": "Structure",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4554,
-    "Name": "CA_Sentry_Boss",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4555,
@@ -8274,40 +3102,10 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 4557,
-    "Name": "CA_Boomflower",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4558,
-    "Name": "CA_Dead_Jackrabbit",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4558,
     "Name": "Concrete Ramp",
     "Type": "Structure",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4558,
-    "Name": "CA Mateo (Fisherman - Camp)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4559,
-    "Name": "CA Mateo (Fisherman - Fishing Spot)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4559,
-    "Name": "CA_Dead_Rabbit",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4559,
@@ -8322,28 +3120,10 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 4560,
-    "Name": "CA_Vehicles_High",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4561,
     "Name": "Concrete Roof",
     "Type": "Structure",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4561,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4561,
-    "Name": "CA_Dead_Rabbit_White",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4562,
@@ -8352,34 +3132,10 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 4562,
-    "Name": "CA_Heart_Piece",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4563,
     "Name": "Concrete Stairs",
     "Type": "Structure",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4563,
-    "Name": "CA_Research_High_Stash",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4563,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4564,
-    "Name": "CA_Deadzone_Stacks",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4564,
@@ -8394,70 +3150,16 @@
     "Rarity": "Legendary"
   },
   {
-    "ID": 4565,
-    "Name": "CA_Fishing_Crate_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4565,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4566,
     "Name": "Concrete Window",
     "Type": "Structure",
     "Rarity": "Legendary"
   },
   {
-    "ID": 4566,
-    "Name": "CA_Fishing_Crate_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4566,
-    "Name": "<color=#9cb5d6>Lake Shore Drive</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4567,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4567,
-    "Name": "CA_Fishing_Crate_2",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4568,
-    "Name": "CA_Files",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4568,
     "Name": "Wooden Planter",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4569,
-    "Name": "CA_Mesadyne_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4569,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4569,
@@ -8472,58 +3174,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4570,
-    "Name": "<color=#9cb5d6>Fishing Basics</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4570,
-    "Name": "CA_Cloth",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4571,
-    "Name": "CA_Money_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4571,
     "Name": "Pulsenade Blueprint",
     "Type": "Food",
     "Rarity": "Rare"
   },
   {
-    "ID": 4571,
-    "Name": "<color=#9cb5d6>Nuanced Fishing</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
     "ID": 4572,
     "Name": "Metal Rifle Rack",
     "Type": "Storage",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4572,
-    "Name": "<color=#9cb5d6>The River</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4572,
-    "Name": "CA_Poster_0",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4573,
-    "Name": "CA_Poster_1",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4573,
@@ -8533,21 +3193,9 @@
   },
   {
     "ID": 4574,
-    "Name": "CA_Poster_2",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4574,
     "Name": "Fitness Radio",
     "Type": "Barricade",
     "Rarity": "Legendary"
-  },
-  {
-    "ID": 4574,
-    "Name": "<color=rare>The Hanging Seamine</color>",
-    "Type": "Vendor",
-    "Rarity": null
   },
   {
     "ID": 4575,
@@ -8556,64 +3204,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4575,
-    "Name": "<color=epic>The Hanging Seamine</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 4575,
-    "Name": "CA_Poster_3",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4576,
-    "Name": "<color=legendary>The Hanging Seamine</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
     "ID": 4576,
     "Name": "Metal Mannequin",
     "Type": "Barricade",
     "Rarity": "Epic"
   },
   {
-    "ID": 4576,
-    "Name": "CA_Poster_4",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4577,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4577,
     "Name": "Cagelight",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4577,
-    "Name": "CA_Poster_5",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4578,
-    "Name": "CA Whitney Trucker (Cali Side)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4578,
-    "Name": "CA_Poster_6",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4578,
@@ -8623,27 +3223,9 @@
   },
   {
     "ID": 4579,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4579,
-    "Name": "CA_Poster_7",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4579,
     "Name": "Blue Bedroll",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4580,
-    "Name": "CA_Poster_8",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4580,
@@ -8652,22 +3234,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4580,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4581,
     "Name": "Orange Bedroll",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4581,
-    "Name": "CA_Poster_9",
-    "Type": "Spawn",
-    "Rarity": null
   },
   {
     "ID": 4582,
@@ -8676,34 +3246,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4582,
-    "Name": "CA Whitney Trucker (Mount Side)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4582,
-    "Name": "CA_Bike",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
     "ID": 4583,
     "Name": "Red Bedroll",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4583,
-    "Name": "CA_Money_1",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4583,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4584,
@@ -8712,40 +3258,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4584,
-    "Name": "CA_Fighter_Jet",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4584,
-    "Name": "CA Whitney Norm (Standing)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4585,
     "Name": "Yellow Bedroll",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4585,
-    "Name": "CA_PMC_Chopper",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 4585,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4586,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4586,
@@ -8758,12 +3274,6 @@
     "Name": "Rain Barrel",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4588,
-    "Name": "CA Whitney Norm (Sit)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4588,
@@ -8898,34 +3408,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4609,
-    "Name": "CA Sofia Tower",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4610,
     "Name": "Angler Hat",
     "Type": "Hat",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4610,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4611,
     "Name": "Farmer Top",
     "Type": "Shirt",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4611,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4612,
@@ -8934,52 +3426,22 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4612,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4613,
     "Name": "Farmer Top",
     "Type": "Shirt",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4613,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4614,
     "Name": "Farmer Top",
     "Type": "Shirt",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4614,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4615,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4615,
     "Name": "Farmer Overalls",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4616,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4616,
@@ -8992,18 +3454,6 @@
     "Name": "Farmer Hat",
     "Type": "Hat",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4617,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4618,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4618,
@@ -9024,18 +3474,6 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4620,
-    "Name": "CA Sofia Tower Grab",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4621,
-    "Name": "CA Sofia Camp",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4621,
     "Name": "Big J Top",
     "Type": "Shirt",
@@ -9048,22 +3486,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4622,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4623,
     "Name": "Big J Bottom",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4623,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4624,
@@ -9072,40 +3498,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4624,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4625,
     "Name": "Big J Apron",
     "Type": "Pants",
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4625,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4626,
     "Name": "Big J Apron",
     "Type": "Pants",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4626,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4627,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4627,
@@ -9162,18 +3564,6 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4635,
-    "Name": "CA Jerome Cave",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4636,
-    "Name": "CA Jerome Camp #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4636,
     "Name": "Doctor Bottom",
     "Type": "Pants",
@@ -9186,28 +3576,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4637,
-    "Name": "CA Jerome Hiding",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4638,
-    "Name": "CA Jerome Camp #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4638,
     "Name": "Surgeon Mirror (Zombie)",
     "Type": "Hat",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4639,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4639,
@@ -9217,21 +3589,9 @@
   },
   {
     "ID": 4640,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4640,
     "Name": "Face Mask",
     "Type": "Mask",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4641,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4641,
@@ -9241,21 +3601,9 @@
   },
   {
     "ID": 4642,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4642,
     "Name": "Vaccines Vest (Zombie)",
     "Type": "Vest",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4643,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4643,
@@ -9268,18 +3616,6 @@
     "Name": "Head Wrap",
     "Type": "Hat",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4644,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4645,
-    "Name": "<color=#eba9a9>Help Me Somebody</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4645,
@@ -9300,22 +3636,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4647,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4648,
     "Name": "Worker Top",
     "Type": "Shirt",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4648,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4649,
@@ -9343,21 +3667,9 @@
   },
   {
     "ID": 4653,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4653,
     "Name": "Conehead (Zombie)",
     "Type": "Hat",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4654,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4654,
@@ -9634,12 +3946,6 @@
     "Name": "Sledgehammer",
     "Type": "Melee",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4700,
-    "Name": "<color=#a97fc9>Wasteland Explorer</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4700,
@@ -9934,12 +4240,6 @@
     "Name": "White Mafia Buttonup",
     "Type": "Shirt",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4756,
-    "Name": "<color=#c97f7f>Zone Trekker</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4756,
@@ -10242,27 +4542,9 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4805,
-    "Name": "CA Gladney",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4806,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4806,
     "Name": "Apple",
     "Type": "Food",
-    "Rarity": null
-  },
-  {
-    "ID": 4807,
-    "Name": "<color=#b2afdb>New Body Rhumba</color>",
-    "Type": "Quest",
     "Rarity": null
   },
   {
@@ -10278,12 +4560,6 @@
     "Rarity": null
   },
   {
-    "ID": 4808,
-    "Name": "CA Gladney Suit",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4809,
     "Name": "Banana",
     "Type": "Food",
@@ -10291,21 +4567,9 @@
   },
   {
     "ID": 4810,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4810,
     "Name": "Emperor",
     "Type": "Gun",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4811,
-    "Name": "<color=rare>ATM</color>",
-    "Type": "Vendor",
-    "Rarity": null
   },
   {
     "ID": 4811,
@@ -10368,18 +4632,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4820,
-    "Name": "CA Notice Board",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4821,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4821,
     "Name": "Extended Military Magazine",
     "Type": "Magazine",
@@ -10390,12 +4642,6 @@
     "Name": "Extended Polymer Magazine",
     "Type": "Magazine",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4823,
-    "Name": "<color=#7fc98f>General Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4823,
@@ -10416,22 +4662,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4825,
-    "Name": "<color=#7fc98f>San Francisco Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
     "ID": 4826,
     "Name": "Palmov",
     "Type": "Gun",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4827,
-    "Name": "<color=#7fc98f>Oakland Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4828,
@@ -10446,12 +4680,6 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4829,
-    "Name": "<color=#7fc98f>Oakhurst Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
     "ID": 4830,
     "Name": "Blackbear Corpse",
     "Type": "Supply",
@@ -10462,12 +4690,6 @@
     "Name": "Coyote Corpse",
     "Type": "Supply",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4831,
-    "Name": "<color=#7fc98f>Palm Springs Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4832,
@@ -10482,12 +4704,6 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4833,
-    "Name": "<color=#7fc98f>Costa Mesa Mall Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
     "ID": 4834,
     "Name": "Grizzly Corpse",
     "Type": "Supply",
@@ -10500,22 +4716,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4835,
-    "Name": "<color=#7fc98f>Berkeley Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
     "ID": 4836,
     "Name": "Mountain Goat Horn",
     "Type": "Supply",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4837,
-    "Name": "<color=#7fc98f>Scotts Valley Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4837,
@@ -10536,34 +4740,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4839,
-    "Name": "<color=#7fc98f>Big Sur Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
     "ID": 4840,
     "Name": "Raccoon Tail",
     "Type": "Supply",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4840,
-    "Name": "CA Sculptor Nik (ML)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4841,
-    "Name": "CA Sculptor Paulie (ML)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4842,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4842,
@@ -10615,12 +4795,6 @@
   },
   {
     "ID": 4850,
-    "Name": "CA Phone Man",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4850,
     "Name": "Casual Cap",
     "Type": "Hat",
     "Rarity": "Uncommon"
@@ -10630,12 +4804,6 @@
     "Name": "Sunglasses",
     "Type": "Glasses",
     "Rarity": "Common"
-  },
-  {
-    "ID": 4852,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4852,
@@ -10650,22 +4818,10 @@
     "Rarity": "Common"
   },
   {
-    "ID": 4853,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4854,
     "Name": "Scrap Doorway",
     "Type": "Structure",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4855,
-    "Name": "<color=#eba9a9>A Timely Delivery</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4855,
@@ -10687,12 +4843,6 @@
   },
   {
     "ID": 4858,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4858,
     "Name": "Scrap Roof Hole",
     "Type": "Structure",
     "Rarity": "Epic"
@@ -10702,18 +4852,6 @@
     "Name": "Scrap Pillar",
     "Type": "Structure",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4859,
-    "Name": "<color=#eba9a9>Diamonds in the Rough</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4860,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4860,
@@ -10741,12 +4879,6 @@
   },
   {
     "ID": 4864,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4864,
     "Name": "Scrap Roof",
     "Type": "Structure",
     "Rarity": "Epic"
@@ -10756,18 +4888,6 @@
     "Name": "Triangular Scrap Roof",
     "Type": "Structure",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4865,
-    "Name": "<color=#eba9a9>Of Angels and Angles</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4866,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4866,
@@ -10788,22 +4908,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4868,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4869,
     "Name": "Scrap Window",
     "Type": "Structure",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4869,
-    "Name": "<color=#eba9a9>Seen and Not Seen</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4870,
@@ -10908,18 +5016,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4886,
-    "Name": "CA Vegabond Wild",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4887,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4887,
     "Name": "Metal Table",
     "Type": "Barricade",
@@ -10932,18 +5028,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4888,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4889,
-    "Name": "CA Vegabond Town",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4889,
     "Name": "Concrete Table",
     "Type": "Barricade",
@@ -10954,12 +5038,6 @@
     "Name": "Concrete Table",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4890,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4891,
@@ -11022,28 +5100,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4900,
-    "Name": "CA Gromm (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4901,
     "Name": "Adobe Pouf",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4901,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4902,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4902,
@@ -11056,12 +5116,6 @@
     "Name": "Concrete Pouf",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4903,
-    "Name": "<color=#de5f5f>The Missing Gnomes</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4904,
@@ -11088,18 +5142,6 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4907,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4908,
-    "Name": "CA Lost Henry (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4908,
     "Name": "Purple Wood Double Bed",
     "Type": "Barricade",
@@ -11107,21 +5149,9 @@
   },
   {
     "ID": 4909,
-    "Name": "CA Lost Gilda (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4909,
     "Name": "Red Wood Double Bed",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4910,
-    "Name": "CA Lost Ben (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4910,
@@ -11136,40 +5166,16 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4911,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4912,
     "Name": "Black Adobe Double Bed",
     "Type": "Barricade",
     "Rarity": "Rare"
   },
   {
-    "ID": 4912,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4913,
     "Name": "Blue Adobe Double Bed",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4913,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4914,
-    "Name": "CA Henry (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4914,
@@ -11184,28 +5190,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4915,
-    "Name": "CA Gilda (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4916,
     "Name": "Purple Adobe Double Bed",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4916,
-    "Name": "CA Ben (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4917,
-    "Name": "CA Oscar (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4917,
@@ -11220,40 +5208,16 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4918,
-    "Name": "CA Finn (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4919,
     "Name": "Yellow Adobe Double Bed",
     "Type": "Barricade",
     "Rarity": "Rare"
   },
   {
-    "ID": 4919,
-    "Name": "CA Stim Eddie Standing (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4920,
     "Name": "Black Metal Double Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4920,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4921,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4921,
@@ -11268,28 +5232,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4922,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4923,
     "Name": "Orange Metal Double Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4923,
-    "Name": "CA Sleeping Eddie (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4924,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4924,
@@ -11299,21 +5245,9 @@
   },
   {
     "ID": 4925,
-    "Name": "<color=#69c269>The Gilded Request</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4925,
     "Name": "Red Metal Double Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4926,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4926,
@@ -11323,21 +5257,9 @@
   },
   {
     "ID": 4927,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4927,
     "Name": "Yellow Metal Double Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4928,
-    "Name": "<color=#c077c7>Blooming Needs</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4928,
@@ -11350,12 +5272,6 @@
     "Name": "Blue Concrete Double Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4929,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4930,
@@ -11376,34 +5292,16 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4932,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4933,
     "Name": "Red Concrete Double Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
   },
   {
-    "ID": 4933,
-    "Name": "<color=#c9c27f>Sweet Dreams</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
     "ID": 4934,
     "Name": "White Concrete Double Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4934,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4935,
@@ -11424,22 +5322,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4937,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4938,
     "Name": "Green Wood Bed",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4938,
-    "Name": "CA Stim Eddie (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4939,
@@ -11452,18 +5338,6 @@
     "Name": "Purple Wood Bed",
     "Type": "Barricade",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4940,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4941,
-    "Name": "<color=#9fe3d1>Counting Sheep</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4941,
@@ -11496,18 +5370,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4945,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4946,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4946,
     "Name": "Green Adobe Bed",
     "Type": "Barricade",
@@ -11520,28 +5382,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4947,
-    "Name": "<color=#6967a3>A Stranger Among His Own</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 4948,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4948,
     "Name": "Purple Adobe Bed",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4949,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4949,
@@ -11554,12 +5398,6 @@
     "Name": "White Adobe Bed",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4951,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4951,
@@ -11587,12 +5425,6 @@
   },
   {
     "ID": 4955,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4955,
     "Name": "Orange Metal Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
@@ -11604,28 +5436,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4956,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4957,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4957,
     "Name": "Red Metal Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4958,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4958,
@@ -11664,18 +5478,6 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4963,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4964,
-    "Name": "CA Eddie (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4964,
     "Name": "Purple Concrete Bed",
     "Type": "Barricade",
@@ -11695,21 +5497,9 @@
   },
   {
     "ID": 4967,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4967,
     "Name": "Yellow Concrete Bed",
     "Type": "Barricade",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4968,
-    "Name": "<color=#fcfcfc>Oscar's Riddle</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4968,
@@ -11724,22 +5514,10 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 4969,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4970,
     "Name": "Metal Shelf",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4971,
-    "Name": "CA Oscar Glasses (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4971,
@@ -11749,21 +5527,9 @@
   },
   {
     "ID": 4972,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4972,
     "Name": "Adobe Sofa",
     "Type": "Barricade",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 4973,
-    "Name": "<color=gold>A Good Samaritan</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4973,
@@ -11773,33 +5539,15 @@
   },
   {
     "ID": 4974,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4974,
     "Name": "Concrete Sofa",
     "Type": "Barricade",
     "Rarity": "Epic"
   },
   {
     "ID": 4975,
-    "Name": "CA Gilda Sit (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4975,
     "Name": "Wood Bookshelf",
     "Type": "Library",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4976,
-    "Name": "CA Ben Sit (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4976,
@@ -11814,40 +5562,16 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4977,
-    "Name": "CA Henry Sit (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4978,
     "Name": "Concrete Bookshelf",
     "Type": "Library",
     "Rarity": "Epic"
   },
   {
-    "ID": 4978,
-    "Name": "CA Finn Sit (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 4979,
-    "Name": "CA Oscar Sit (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
     "ID": 4979,
     "Name": "Large Wood Bookshelf",
     "Type": "Library",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4980,
-    "Name": "CA Eddie Sit (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
   },
   {
     "ID": 4980,
@@ -11862,22 +5586,10 @@
     "Rarity": "Epic"
   },
   {
-    "ID": 4981,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4982,
     "Name": "Large Concrete Bookshelf",
     "Type": "Library",
     "Rarity": "Epic"
-  },
-  {
-    "ID": 4982,
-    "Name": "<color=#de5f5f>Wooden Car</color>",
-    "Type": "Quest",
-    "Rarity": null
   },
   {
     "ID": 4983,
@@ -11892,18 +5604,6 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4984,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4985,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4985,
     "Name": "Green Daypack",
     "Type": "Backpack",
@@ -11914,18 +5614,6 @@
     "Name": "Orange Daypack",
     "Type": "Backpack",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4986,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 4987,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4987,
@@ -11940,22 +5628,10 @@
     "Rarity": "Uncommon"
   },
   {
-    "ID": 4988,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4989,
     "Name": "White Daypack",
     "Type": "Backpack",
     "Rarity": "Uncommon"
-  },
-  {
-    "ID": 4989,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
   },
   {
     "ID": 4990,
@@ -12012,1689 +5688,9 @@
     "Rarity": null
   },
   {
-    "ID": 4998,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
     "ID": 4999,
     "Name": "Flashlight",
     "Type": "Melee",
-    "Rarity": null
-  },
-  {
-    "ID": 4999,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5000,
-    "Name": "CA Gromm Final Outside (Gnome)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5002,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5004,
-    "Name": "CA Richard",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5005,
-    "Name": "CA Bus Driver (Default)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5006,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5007,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5008,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5009,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5010,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5011,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5012,
-    "Name": "CA Bus Driver (Bar)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5013,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5014,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5015,
-    "Name": "<color=#7f9bc9>Just a Few Drinks</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5017,
-    "Name": "CA Bus Driver (Stash)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5018,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5019,
-    "Name": "CA Bus Driver (Stash)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5020,
-    "Name": "CA Bikers Mechanic",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5021,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5024,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5025,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5026,
-    "Name": "<color=#a67fc9>Night Ride #1</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5027,
-    "Name": "<color=#a67fc9>Night Ride #2</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5028,
-    "Name": "<color=#a67fc9>Night Ride #3</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5030,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5031,
-    "Name": "CA Bus Person #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5032,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5034,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5035,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5036,
-    "Name": "<color=#a67fc9>Important Documents #1</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5038,
-    "Name": "<color=#a67fc9>Important Documents #2</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5040,
-    "Name": "<color=gold>In for a Pound</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5051,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5052,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5053,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5055,
-    "Name": "CA Bikers Domino (Door - Locked) (DRIPPED)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5056,
-    "Name": "CA Bikers Domino (Door - Unlocked) (DRIPPED)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5057,
-    "Name": "CA Bikers Domino (Door - Unlocked) (Poor)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5058,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5059,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5061,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5068,
-    "Name": "CA Bikers Domino (Door - Locked) (Poor)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5070,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5071,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5072,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5073,
-    "Name": "<color=#a67fc9>I against I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5076,
-    "Name": "CA Bikers John #1 (Quest, Standing)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5077,
-    "Name": "CA Bikers John #2 (Quest, Standing)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5078,
-    "Name": "CA Bikers John #1 (Quest, Lying)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5079,
-    "Name": "CA Bikers John #2 (Quest, Lying)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5080,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5081,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5084,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5085,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5085,
-    "Name": "CA_Dead_Cougar",
-    "Type": "Spawn",
-    "Rarity": null
-  },
-  {
-    "ID": 5086,
-    "Name": "<color=#a67fc9>Good Sounds</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5090,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5091,
-    "Name": "<color=#a67fc9>Moustache Assurance</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5093,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5094,
-    "Name": "CA Bikers Sebastian #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5095,
-    "Name": "CA Bikers Sebastian #3",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5096,
-    "Name": "CA Bikers Sebastian #4",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5097,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5098,
-    "Name": "<color=legendary>Riding Off into the Sunset</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5100,
-    "Name": "CA Bikers Boss (Basement)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5101,
-    "Name": "CA Bikers Boss (Basement, Dripped)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5102,
-    "Name": "CA Bikers Boss (Mechanic)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5103,
-    "Name": "CA Bikers Boss (Dripped)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5104,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5106,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5107,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5108,
-    "Name": "<color=#a67fc9>Our House</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5110,
-    "Name": "CA Bikers Victoria (Bus)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5111,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5112,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5113,
-    "Name": "<color=#a67fc9>Side Job</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5114,
-    "Name": "CA Bikers Victoria (Bar)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5115,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5116,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5139,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5145,
-    "Name": "<color=#7fc98f>El Portal Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5147,
-    "Name": "<color=#7fc98f>Cleaning with Fire</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5149,
-    "Name": "<color=#7fc98f>Mega Cleaning</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5151,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5152,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5153,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5154,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5155,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5156,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5157,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5158,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5159,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5160,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5161,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5162,
-    "Name": "<color=#c8c97f>Supplies Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5163,
-    "Name": "<color=#7f9bc9>Weapons Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5164,
-    "Name": "<color=#7f9bc9>Weapons Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5165,
-    "Name": "<color=#7f9bc9>Weapons Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5166,
-    "Name": "<color=#7f9bc9>Weapons Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5167,
-    "Name": "<color=#7f9bc9>Weapons Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5168,
-    "Name": "<color=#7f9bc9>Weapons Needed</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5169,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5174,
-    "Name": "CA Survivors Laura",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5175,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5176,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5178,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5179,
-    "Name": "<color=#d8caeb>Woof</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5182,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5183,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5189,
-    "Name": "CA Cruz (Camp)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5190,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5192,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5193,
-    "Name": "<color=#bababa>The Past</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5195,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5198,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5200,
-    "Name": "CA Survivors Sarah",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5201,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5202,
-    "Name": "<color=#e0af8b>Juiced Up</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5204,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5208,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5209,
-    "Name": "<color=#e0af8b>Oasis Glossary</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5211,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5212,
-    "Name": "CA Survivors Sarah (Quest)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5213,
-    "Name": "CA Survivors Sarah (Quest, Generator)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5214,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5215,
-    "Name": "CA Dawson Oakland #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5215,
-    "Name": "CA Dawson Oakland #1 (Gun)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5216,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5219,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5220,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5221,
-    "Name": "<color=#96b2e0>Off The Force</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5223,
-    "Name": "<color=#96b2e0>Cutting a Path</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5226,
-    "Name": "CA Ernest #2 (With a gun)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5226,
-    "Name": "CA Ernest #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5227,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5230,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5231,
-    "Name": "<color=#bcc98f>The Start Of Something Beautiful</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5232,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5233,
-    "Name": "<color=#bcc98f>Helps Me Helps You</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5235,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5236,
-    "Name": "CA Dawson Camp #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5237,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5238,
-    "Name": "<color=#96b2e0>Poison Arrow</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5241,
-    "Name": "CA Dawson Camp #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5242,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5243,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5244,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5245,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5248,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5249,
-    "Name": "<color=uncommon>Mechanic</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5250,
-    "Name": "CA Bikers Real Toilet Guy",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5251,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5252,
-    "Name": "<color=uncommon>Weapons I</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5253,
-    "Name": "<color=rare>Weapons II</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5254,
-    "Name": "<color=epic>Weapons III</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5255,
-    "Name": "<color=legendary>Weapons IV</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5256,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5257,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5258,
-    "Name": "<color=uncommon>Hunting</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5259,
-    "Name": "<color=uncommon>Armor I</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5260,
-    "Name": "<color=epic>Deadzone</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5261,
-    "Name": "<color=uncommon>Farming</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5263,
-    "Name": "CA James #1 (Outpost)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5264,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5265,
-    "Name": "CA Henry #1 (Outpost)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5266,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5267,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5268,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5271,
-    "Name": "<color=#a7e8af>Call of Duty</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5274,
-    "Name": "CA Henry #2 (Camp)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5274,
-    "Name": "CA James #2 (Camp)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5283,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5284,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5285,
-    "Name": "<color=#c97f7f>Fight fire with fire</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5286,
-    "Name": "<color=#c97f7f>Cool the Flame</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5298,
-    "Name": "CA Andy (At Bandits) #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5299,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5301,
-    "Name": "CA Bandits Guard #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5302,
-    "Name": "CA Bandits Guard #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5303,
-    "Name": "CA Bandits Guard #3",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5304,
-    "Name": "CA Bandits Guard #4",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5305,
-    "Name": "CA Bandits Guard #5",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5306,
-    "Name": "CA Bandits Guard #6",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5307,
-    "Name": "CA Bandits Guard #7 (Sit)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5308,
-    "Name": "CA Bandits Guard #8 (Sit)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5309,
-    "Name": "CA Bandits Guard #9 (Sit)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5310,
-    "Name": "CA Bandits Guard #10 (Sit)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5311,
-    "Name": "CA Bandits Guard #11 (Sit)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5312,
-    "Name": "CA Bandits Guard #12 (Asleep)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5313,
-    "Name": "CA Bandits Guard #13 (Asleep)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5317,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5318,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5319,
-    "Name": "CA Ernest #3 (Bandits)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5320,
-    "Name": "CA Bandits Guard #14 (Oasis)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5321,
-    "Name": "CA Bandits Guard #15 (Oasis)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5322,
-    "Name": "CA Bandits Guard #16 (Oasis)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5325,
-    "Name": "CA Andy (Outside Bandits) #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5327,
-    "Name": "CA Bandits Guard #17 (Dialogue)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5328,
-    "Name": "CA Bandits Guard #18 (Dialogue)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5331,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5332,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5334,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5336,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5338,
-    "Name": "CA Bandits Guard #17 (Oasis, Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5339,
-    "Name": "CA Bandits Guard #18 (Oasis, Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5341,
-    "Name": "CA Survivors Frank (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5342,
-    "Name": "CA Ernest #4 (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5343,
-    "Name": "CA Henry #3 (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5344,
-    "Name": "CA James #3 (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5345,
-    "Name": "CA Bandit Leader #1 (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5346,
-    "Name": "CA Bandit #1 (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5347,
-    "Name": "CA Bandit #2 (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5348,
-    "Name": "CA Bandit #3 (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5349,
-    "Name": "CA Bandit #4 (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5351,
-    "Name": "CA Bikers Boss (Deal)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5352,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5355,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5356,
-    "Name": "CA Bikers Boss (Deal, Dripped)",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5357,
-    "Name": "CA Victor #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5358,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5359,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5360,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5370,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5371,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5373,
-    "Name": "<color=#ffad33>The Eternal Hunger</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5375,
-    "Name": "<color=#ffad33>The Lost Scientist</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5379,
-    "Name": "<color=#ffad33>Shadows of the Past</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5381,
-    "Name": "<color=#ffad33>A Choice at Last</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5399,
-    "Name": "<color=#e0dc8b>Victor: Fort Mojave</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5401,
-    "Name": "<color=#e0dc8b>Victor: San Francisco</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5409,
-    "Name": "<color=#e0dc8b>Victor: Delmarva</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5412,
-    "Name": "<color=#e0dc8b>Victor: Mesadyne</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5419,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5420,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5421,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5422,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5423,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5424,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5425,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5426,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5427,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5428,
-    "Name": "<color=#7f9bc9>Fish Needed I</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5429,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5430,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5431,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5432,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5433,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5434,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5435,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5436,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5437,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5438,
-    "Name": "<color=#a37fc9>Fish Needed II</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5439,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5440,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5441,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5442,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5443,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5444,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5445,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5446,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5447,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5448,
-    "Name": "<color=#d179ab>Fish Needed III</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5457,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5458,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5460,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5461,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5463,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5467,
-    "Name": "CA U-Man #1",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5468,
-    "Name": "CA U-Man #2",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5469,
-    "Name": "CA U-Man #3",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5470,
-    "Name": "CA U-Man #4",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5471,
-    "Name": "CA U-Man #5",
-    "Type": "NPC",
-    "Rarity": null
-  },
-  {
-    "ID": 5477,
-    "Name": "<color=uncommon>Bakery</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5478,
-    "Name": "<color=uncommon>Food & Water</color>",
-    "Type": "Vendor",
-    "Rarity": null
-  },
-  {
-    "ID": 5479,
-    "Name": "<color=#d4b466>An Old Wound</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5481,
-    "Name": "Asset",
-    "Type": "Dialogue",
-    "Rarity": null
-  },
-  {
-    "ID": 5482,
-    "Name": "<color=#a7e8af>Old Flags Still Fly</color>",
-    "Type": "Quest",
-    "Rarity": null
-  },
-  {
-    "ID": 5484,
-    "Name": "Asset",
-    "Type": "Dialogue",
     "Rarity": null
   },
   {
@@ -14970,12 +6966,6 @@
     "Rarity": "Rare"
   },
   {
-    "ID": 6224,
-    "Name": "NPC Notice Board",
-    "Type": "Shirt",
-    "Rarity": null
-  },
-  {
     "ID": 6225,
     "Name": "Advanced Military Top",
     "Type": "Shirt",
@@ -15682,18 +7672,6 @@
     "Name": "Bottled Zestify",
     "Type": "Water",
     "Rarity": "Rare"
-  },
-  {
-    "ID": 6349,
-    "Name": "NPC Guitar",
-    "Type": "Cloud",
-    "Rarity": "Common"
-  },
-  {
-    "ID": 6350,
-    "Name": "NPC Nik Hat",
-    "Type": "Hat",
-    "Rarity": null
   },
   {
     "ID": 6351,
